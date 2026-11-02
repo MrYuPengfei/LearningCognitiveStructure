@@ -151,3 +151,28 @@
 === 轮0 批次 14/16 (1 篇) ===
 [11-02 23:54:04]   [task] job_f035ed227d0763ddc64c01af 提交 1 篇 (tier=standard)
 [11-02 23:54:04]   [task] status=running progress=0/1
+[11-02 23:54:19]   [task] status=completed progress=1/1
+[11-02 23:54:19]   [ok] 喻平_单墫_2003_数学学习心理的CPFS结构理论.pdf (completed, 22401B)
+[11-02 23:54:19]   [batch done] 1 篇, 用时 15.1s
+[11-02 23:54:21]   累计已解析: 15/17  总耗时 337s
+[11-02 23:54:21] 
+=== 轮0 批次 15/16 (1 篇) ===
+[11-02 23:54:21]   [task] job_0fdcba4271a2466728b198ea 提交 1 篇 (tier=standard)
+[11-02 23:54:21]   [task] status=running progress=0/1
+[11-02 23:54:41]   [task] status=completed progress=1/1
+[11-02 23:54:42]   [ok] 李长虹等_2010_学科领域知识与数学学习的知识表征研究.pdf (completed, 33441B)
+[11-02 23:54:42]   [batch done] 1 篇, 用时 20.2s
+[11-02 23:54:44]   累计已解析: 16/17  总耗时 359s
+[11-02 23:54:44] 
+=== 轮0 批次 16/16 (1 篇) ===
+[11-02 23:54:44]   [task] job_3327be3b7dc9982ffde0b2ba 提交 1 篇 (tier=standard)
+[11-02 23:54:44]   [task] status=running progress=0/1
+[11-02 23:54:54]   [task] status=completed progress=1/1
+[11-02 23:54:54]   [ok] Ainsworth_2006_DeFT.pdf (completed, 77509B)
+[11-02 23:54:54]   [batch done] 1 篇, 用时 10.1s
+[11-02 23:54:56]   累计已解析: 17/17  总耗时 371s
+[11-02 23:54:56] 
+完成: parsed=17, dup_skipped=0, 仍未成功=0, 总耗时 6.2 分钟
+[11-02 23:57:22] 总量 17, 待处理 0, 档位 standard, BATCH=1, 自动重试轮数 2
+[11-02 23:57:22] 
+完成: parsed=17, dup_skipped=0, 仍未成功=0, 总耗时 0.0 分钟

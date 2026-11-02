@@ -1,7 +1,9 @@
 {
  "Ainsworth_2006_DeFT.pdf": {
-  "status": "download_failed",
-  "error": "[Errno 2] No such file or directory: 'D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\\\_parse\\\\Ainsworth_2006_DeFT\\\\_raw.zip'"
+  "status": "parsed",
+  "task_id": "job_3327be3b7dc9982ffde0b2ba",
+  "dir": "D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\Ainsworth_2006_DeFT",
+  "md_bytes": 77509
  },
  "Barsalou_1999_Perceptual_Symbol_Systems.pdf": {
   "status": "parsed",
@@ -86,5 +88,17 @@
   "task_id": "job_bfe3453946cf51b1d50a44b0",
   "dir": "D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\叶浩生等_2018_身体与认知表征",
   "md_bytes": 54848
+ },
+ "喻平_单墫_2003_数学学习心理的CPFS结构理论.pdf": {
+  "status": "parsed",
+  "task_id": "job_f035ed227d0763ddc64c01af",
+  "dir": "D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\喻平_单墫_2003_数学学习心理的CPFS结构理论",
+  "md_bytes": 22401
+ },
+ "李长虹等_2010_学科领域知识与数学学习的知识表征研究.pdf": {
+  "status": "parsed",
+  "task_id": "job_0fdcba4271a2466728b198ea",
+  "dir": "D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\李长虹等_2010_学科领域知识与数学学习的知识表征研究",
+  "md_bytes": 33441
  }
 }
