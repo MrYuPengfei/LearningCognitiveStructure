@@ -1,9 +1,0 @@
-{
-  "slug": "openclaw-docker",
-  "name": "Docker",
-  "version": "0.2.0",
-  "installedAt": 1775458581090,
-  "source": "skillhub",
-  "installedContentHash": "sha256:72903e6f458f5cb6d20d0d93dfba1135e4dae761036eb58a37555baa3133c82d",
-  "iconDownloadFailedAt": 1793170837553
-}

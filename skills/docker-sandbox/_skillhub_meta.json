@@ -1,9 +1,0 @@
-{
-  "slug": "docker-sandbox",
-  "name": "Docker Sandbox",
-  "version": "1.0.0",
-  "installedAt": 1775458585845,
-  "source": "skillhub",
-  "installedContentHash": "sha256:ed52cac9e14f5661814f6a95fa533853e93ba8a0b1f8150e8f0d8b8216595f75",
-  "iconDownloadFailedAt": 1793170837552
-}
