@@ -1,0 +1,1936 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.076,
+            0.719,
+            0.487,
+            0.75
+          ],
+          "content": "This article was published Online First February 17, 2014. Janell R. Blunt and Jeffrey D. Karpicke, Department of Psychological Sciences, Purdue University."
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.076,
+            0.837,
+            0.487,
+            0.876
+          ],
+          "content": "We thank Breanne Lawler, Stephanie Angel, Kyle Ward, Mindi Cogdill, and Brittany Etchison for helping collecting the data and Philip Grimaldi for help with computer programming."
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.076,
+            0.749,
+            0.488,
+            0.838
+          ],
+          "content": "This research was supported in part by grants from the National Science Foundation (DUE-0941170 and DRL-1149363) and the Institute of Education Sciences in the U.S. Department of Education (R305A110903). Janell R. Blunt is supported by National Science Foundation Graduate Research Fellowship 2012124747. The opinions expressed are those of the authors and do not represent the views of the National Science Foundation, the Institute of Education Sciences, or the U.S. Department of Education."
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.088,
+            0.71,
+            0.422,
+            0.724
+          ],
+          "content": "This article was ublished Online First Februar 17 2014"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.271,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.077,
+            0.064,
+            0.226,
+            0.082
+          ],
+          "content": "Journal of Educational Psychology 2014, Vol. 106, No. 3, 849 – 858"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.717,
+            0.064,
+            0.922,
+            0.082
+          ],
+          "content": "© 2014 American Psychological Association 0022-0663/14/\\$12.00 DOI: [10.1037/a0035934](http://dx.doi.org/10.1037/a0035934)"
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.076,
+            0.875,
+            0.487,
+            0.915
+          ],
+          "content": "Correspondence concerning this article should be addressed to Janell R. Blunt, Department of Psychological Science, Purdue University, 703 Third Street, West Lafayette, IN 47907-2081. E-mail: [jrblunt@purdue.edu](mailto:jrblunt@purdue.edu)"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.222,
+            0.11,
+            0.776,
+            0.134
+          ],
+          "level": 1,
+          "content": "Learning With Retrieval-Based Concept Mapping"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.345,
+            0.153,
+            0.653,
+            0.182
+          ],
+          "content": "Janell R. Blunt and Jeffrey D. Karpicke Purdue University"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.212,
+            0.203,
+            0.787,
+            0.369
+          ],
+          "content": "Students typically create concept maps while they view the material they are trying to learn. In these circumstances, concept mapping serves as an elaborative study activity—students are not required to retrieve the material they are learning. In 2 experiments, we examined the effectiveness of concept mapping when it is used as a retrieval practice activity. In Experiment 1, students read educational texts and practiced retrieval either by writing down as many ideas as they could recall in paragraph format or by creating a concept map (retrieval-based concept mapping). In Experiment 2, we factorially crossed the format of the activity (paragraph vs. concept map) and the presence or absence of the text (i.e., whether the activity involved repeated studying or retrieval practice). On a final test 1 week later that assessed verbatim knowledge and inferencing, both paragraph and concept map retrieval practice formats produced better performance than additional studying, but the 2 retrieval formats themselves did not differ. The results demonstrate the effectiveness of concept mapping when it is used as a retrieval practice activity and show that retrieval itself, rather than merely the act of writing, drives the benefits of retrieval-based learning activities."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.213,
+            0.38,
+            0.667,
+            0.394
+          ],
+          "content": "Keywords: retrieval practice, concept mapping, learning, writing, study strategies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.431,
+            0.488,
+            0.654
+          ],
+          "content": "Learning is often viewed as a process that occurs primarily when people encode or study new material, and the best learning is thought to occur when students elaborate on what they are studying by forming meaningful connections and creating enriched knowledge structures. Retrieval, which occurs when students take tests, is viewed as an assessment of learning that occurred in prior study experiences but is not thought to create learning itself. In contrast to the latter assumption, a great deal of recent research has shown that practicing retrieval creates long-term, meaningful learning, sometimes even more learning than elaborative encoding activities (see Karpicke, 2012; Karpicke & Blunt, 2011). Our purpose in this article was to examine the effectiveness of two different retrieval practice formats: retrieving by writing information in paragraph format (a common way to induce retrieval practice; Roediger & Karpicke, 2006), and retrieving by creating what we refer to as retrieval-based concept maps."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.653,
+            0.488,
+            0.683
+          ],
+          "content": "The exact mechanisms underlying the effects of retrieval practice have not yet been specified, but the idea that retrieval practice"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.431,
+            0.924,
+            0.815
+          ],
+          "continues_prev": true,
+          "content": "effects stem from elaborative study processes has recently been called into question. If elaboration were responsible for retrieval practice effects, then engaging in repeated retrieval should produce the same or similar effects as engaging in repeated elaborative studying. Recent research, however, has shown that repeated retrieval consistently produces greater levels of long-term learning than elaborative studying. For example, Karpicke and Smith (2012) found that retrieval practice produced superior long-term retention relative to imagery-based and verbal elaborative study methods (see too Karpicke & Blunt, 2011). Instead of elaborative study processes, the benefits of retrieval practice are currently thought to stem from processes involved recollecting the context of a prior learning episode (Karpicke, Lehman, & Aue, in press). Remembering what occurred at a particular place and time is not necessary during a semantic elaboration task, but it is inherent to retrieval practice. As evidence for this account of retrieval-based learning, Karpicke and Zaromb (2010) showed that having people intentionally retrieve a prior event (in their experiments, the completions to word fragments) led to greater subsequent retention relative to asking people to generate knowledge without thinking back to the past (e.g., completing fragments with the first words that came to mind). Therefore, an essential component of retrievalbased learning is what Tulving (1983) called being in an episodic retrieval mode, which refers to the act of thinking back to what occurred in a particular place and time in the past. Retrieval-based learning activities should be aimed at guiding students to intentionally recollect prior experiences."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.815,
+            0.924,
+            0.915
+          ],
+          "content": "In the experiments reported here, we examined the effectiveness of using one popular learning task, concept mapping, as a retrievalbased learning activity. Concept mapping is a graphic organizational technique in which students create node-and-link diagrams, where nodes represent concepts and links connecting the nodes represent relations among the concepts (see Figure 1; Novak & Gowin, 1984). Typically, students construct concept maps while"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.487,
+            0.924,
+            0.512,
+            0.935
+          ],
+          "content": "849"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.27,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.078,
+            0.065,
+            0.109,
+            0.078
+          ],
+          "content": "850"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.422,
+            0.063,
+            0.578,
+            0.076
+          ],
+          "content": "BLUNT AND KARPICKE"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.195,
+            0.097,
+            0.803,
+            0.47
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.274,
+                0.483,
+                0.725,
+                0.497
+              ],
+              "content": "Figure 1. An example of a concept map created by a student in Experiment 1."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_1_image_3.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.525,
+            0.488,
+            0.595
+          ],
+          "continues_prev": true,
+          "content": "they view the materials they are learning. Although this presumably allows students to enrich the material by encoding meaningful relationships among concepts, when students create concept maps while viewing the to-be-learned materials, they are not required to practice retrieving the materials."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.595,
+            0.489,
+            0.916
+          ],
+          "content": "Recently, we carried out two experiments in which we directly compared the effectiveness of retrieval practice and elaborative studying with concept mapping (Karpicke & Blunt, 2011). Students studied educational texts on various science topics and either practiced retrieval or created concept maps of the texts. In the concept map conditions, students created concept maps while viewing the texts, whereas in the retrieval practice conditions, students read the texts and practiced retrieval by writing down as much of the material as they could recall without viewing the texts (a standard way of implementing retrieval practice for educational texts, which we refer to in this article as paragraph format; see Karpicke & Roediger, 2010; Roediger & Karpicke, 2006). The effects of these activities were assessed on final tests 1 week after the original learning phase. Practicing retrieval produced better long-term learning than elaborative concept mapping on final short-answer questions that assessed verbatim knowledge (items stated directly in the original text) and inferential knowledge (questions that required students to connect multiple concepts in the text). Furthermore, the benefits of retrieval practice were observed not only on short-answer questions but also on final assessments that involved creating a concept map of the material (Experiment 2 in Karpicke & Blunt, 2011). Thus, practicing retrieval produced more learning than creating concept maps when"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.509,
+            0.525,
+            0.922,
+            0.552
+          ],
+          "continues_prev": true,
+          "content": "the concept mapping activity was used as an elaborative study method."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.552,
+            0.924,
+            0.747
+          ],
+          "content": "Concept mapping could be used as technique to implement retrieval practice, and there are reasons to expect that concept mapping might serve as an effective retrieval-based learning activity. Specifically, concept mapping requires students to identify the main concepts in a text (Hay, Kinchin, & Lygo-Baker, 2008; Stewart, Van Kirk, & Rowell, 1979) and then identify how the concepts are related to each other, which helps focus students on the organizational structure of the material (Vanides, Yin, Tomita, & Ruiz-Primo, 2005). It is also assumed that creating concept maps helps student use their own prior knowledge to identify how concepts might be related (Novak, 1976). Thus, concept mapping is thought to promote not only students’ verbatim knowledge and comprehension but also students’ abilities to make inferences about what they are learning (Novak & Gowin, 1984)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.747,
+            0.924,
+            0.916
+          ],
+          "content": "Alternatively, there are also reasons to expect that concept mapping might not serve as an effective retrieval-based learning activity. When students freely recall material, they must adopt a retrieval strategy to guide their recall output (e.g., when recalling texts in paragraph format, students tend to recall in serial order, presumably to preserve the text structure; see Karpicke & Roediger, 2010). Concept mapping might require students to adopt an ineffective retrieval strategy or might disrupt students’ default strategies, which could weaken the benefits of retrieval practice. It is also possible that asking students to retrieve knowledge in concept map format could introduce additional cognitive load during the process of retrieval, or the mapping task might function"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.272,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.369,
+            0.063,
+            0.63,
+            0.076
+          ],
+          "content": "RETRIEVAL-BASED CONCEPT MAPPING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.892,
+            0.065,
+            0.921,
+            0.078
+          ],
+          "content": "851"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.095,
+            0.488,
+            0.247
+          ],
+          "continues_prev": true,
+          "content": "as a secondary task that divides students’ attention. Either factor could reduce the effectiveness of retrieval practice. Finally, retrieval-based concept mapping might produce learning that is equivalent to the learning afforded by practicing retrieval in paragraph format. This outcome would be expected if the organizational processing thought to occur during concept mapping were redundant with relational processing already afforded by paragraph recall and if both retrieval formats effectively allowed students to recollect the prior episodic context, which is the mechanism considered central to retrieval-based learning (Karpicke et al., in press; Karpicke & Zaromb, 2010)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.247,
+            0.489,
+            0.457
+          ],
+          "content": "In the present experiments, students read brief educational texts and practiced retrieval by writing in paragraph format or by creating concept maps. The effects of these retrieval practice activities were examined on a delayed short-answer test 1 week after the original learning phase. We also examined students subjective experiences of the different activity formats. We were especially interested in students’ judgments of learning (their predictions of how well they would perform in the future), but we also examined students’ ratings of how interesting, difficult, and enjoyable the activities were. The inclusion of these metacognitive judgments allowed us to examine the correspondence between students’ actual learning and their predicted performance, which is especially important to examine in light of claims that concept mapping represents “the most important metacognitive tool in science education” (Mintzes, Wandersee, & Novak. 1997, p. 424)."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.229,
+            0.475,
+            0.335,
+            0.49
+          ],
+          "level": 2,
+          "content": "Experiment 1"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.497,
+            0.49,
+            0.707
+          ],
+          "content": "Experiment 1 was a conceptual replication of Karpicke and Blunt (2011) with one important change: Rather than having students create concept maps while viewing texts, we had them create concept maps in the absence of the texts. Thus, we directly compared two different retrieval practice formats: concept mapping and paragraph recall. Students read and practiced retrieval of brief science texts. During concept map retrieval practice, students retrieved the material by creating a concept map, whereas during paragraph retrieval practice, students wrote as much of the material as they could recall in paragraph format. The students then made a series of metacognitive judgments (judgments of learning, interest, difficulty, and enjoyment). The effects of the two retrieval practice formats were assessed on a final test 1 week after the original learning phase that included both verbatim and inference short-answer questions."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.725,
+            0.141,
+            0.739
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.747,
+            0.487,
+            0.775
+          ],
+          "content": "**Subjects.** Thirty-two Purdue University undergraduates participated in partial fulfillment of course requirements."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.775,
+            0.488,
+            0.915
+          ],
+          "content": "**Materials.** Two brief texts were selected from Cook and Mayer (1988, as described and used by Karpicke & Blunt, 2011). One text, “The Human Ear,” had a sequential structure (Meyer, 1975), which means the text described a connected series of events and steps in a process (the sequence of events involved in the process of hearing). The other text, “Make-Up of Human Blood,” had an enumeration structure, which means that the text listed and described a series of concepts (the properties of different blood components). The texts were 259 and 236 words in length, respectively."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.095,
+            0.924,
+            0.177
+          ],
+          "content": "**Design.** The two retrieval formats (concept map vs. paragraph) were manipulated within subject. Each student studied two texts and practiced retrieval of one text in concept map format and the other in paragraph format. The order of the two texts and the order in which students performed the two learning activities were counterbalanced across students."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.177,
+            0.924,
+            0.261
+          ],
+          "content": "**Procedure.** Students were tested in small groups in two sessions. During the learning phase (Session 1), students read one text for 5 min, recalled it for 10 min, reread it for 5 min, and recalled it again for 10 min in one of the two retrieval practice conditions. They then repeated this procedure for the other text and other retrieval practice condition."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.261,
+            0.924,
+            0.427
+          ],
+          "content": "Before completing the concept mapping retrieval practice condition, the students were instructed about the nature of the concept mapping activity. They were told that a concept map is a diagram in which concepts are represented as nodes that are linked together with words and phrases. The students were shown an example of a concept map selected from Novak (2005). Then, during recall periods, they were given a sheet of paper and told to recall the text by creating a concept map. Students were allowed to refer to the example concept map, but not to the text, throughout each 10-min recall period. Pilot testing showed that this was enough time for students to reach asymptotic levels of recall under these conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.428,
+            0.924,
+            0.525
+          ],
+          "content": "In the paragraph retrieval practice condition, students saw a response box on a computer screen and were told to recall as much of the information from the text as they could by typing their responses on the computer during each 10-min recall period (see Karpicke & Roediger, 2010). Overall, the total amount of learning time was identical in the elaborative concept mapping and retrieval practice conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.525,
+            0.924,
+            0.636
+          ],
+          "content": "At the end of each learning activity, the students were asked to predict how much of the material they would remember in 1 week (an aggregate judgment of learning) and to rate the enjoyment, difficulty, and interestingness of the activities. Students made their ratings on a scale from 0% to 100% in increments of 10 (0, 10, 20,. . . 80, 90, 100). At end of Session 1, after completing both activities, students indicated which retrieval practice format they preferred."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.635,
+            0.924,
+            0.776
+          ],
+          "content": "The students were dismissed and returned to the laboratory 1 week later for the final short-answer test, which included 10 verbatim questions and four inference questions per text. Examples of questions are shown in the Appendix. During the final test, each question remained on the screen for at least 20 s; at that time, a button labeled “Next” appeared on the screen, and students pressed the button to proceed to the next question. Students were encouraged to take as much time as needed to answer the questions. At the end of the second session, the students were debriefed and thanked for their participation."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.51,
+            0.793,
+            0.572,
+            0.809
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.815,
+            0.925,
+            0.915
+          ],
+          "content": "An initial analysis indicated that there were no differences among the counterbalancing orders, so the results have been collapsed across orders. There was a difference between texts such that initial and final performance was better on the “Make-Up of Human Blood” text than on the “Human Ear” text. However, text did not interact with any other factors in the experiment, so the results have been collapsed across texts."
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.078,
+            0.065,
+            0.109,
+            0.078
+          ],
+          "content": "852"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.007,
+            0.271,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.421,
+            0.063,
+            0.579,
+            0.076
+          ],
+          "content": "BLUNT AND KARPICKE"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.095,
+            0.489,
+            0.234
+          ],
+          "content": "**Scoring.** The texts were divided into 30 idea units for scoring purposes. Both the paragraph and concept map protocols were scored using the same criteria: Students were given 1 point for each idea unit recalled (Karpicke & Blunt, 2011; Karpicke & Roediger, 2010). On the final short-answer test, correct responses were given 1 point, and partially correct responses were given partial credit (e.g., .75, .50, or .25 points, depending on completeness of the response). Two independent raters scored all recall protocols and short-answer tests, and a third rater resolved all discrepancies to reach 100% agreement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.234,
+            0.489,
+            0.399
+          ],
+          "content": "**Learning performance.** The left side of Table 1 shows performance during the learning phase in Experiment 1 (the proportion of idea units recalled in each condition). Collapsed across retrieval formats, the proportion of ideas recalled increased from Period 1 to Period 2 (.39 vs. .55), t(31) - 10.34, d - 1.83, 95% confidence interval (CI) [1.25, 2.39].<sup>1</sup> Students recalled more ideas in paragraph format than in concept map format. This pattern occurred in Period 1, t(31) - 3.77, d - 0.66, 95% CI [0.28, 1.04], and in Period 2, t(31) - 5.52, d - 0.98, 95% CI [0.55, 1.39]. We examined the differences in initial recall in the concept map and paragraph conditions in a post hoc analysis reported in a later section."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.4,
+            0.488,
+            0.525
+          ],
+          "content": "**Final short-answer performance.** Figure 2 shows performance on the final short-answer test that occurred 1 week after the initial learning phase. Performance was essentially equivalent in the concept map and paragraph retrieval practice format conditions. There were only small differences, slightly favoring the paragraph format over the concept map format, on the verbatim questions (.68 vs. .62), t(31) - 1.07, d - 0.19, 95% CI [– 0.16, 0.54], and on the inference questions (.84 vs. .82), t(31) - 0.41, d - 0.07, 95% CI [– 0.28, 0.42]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.525,
+            0.489,
+            0.707
+          ],
+          "content": "**Subjective ratings.** The right panel of Figure 2 shows students’ judgments of learning, and Table 2 shows students’ additional ratings of their experiences during the learning tasks. There were very small differences in students’ judgments of learning, t(31) - 0.26, d - 0.05, 95% CI [– 0.30, 0.39]; ratings of enjoyment, t(31) - 0.31, d - 0.05, 95% CI [\u00030.29, 0.40]; ratings of task difficulty, t(31) - 0.33, d - 0.06, 95% CI [– 0.29, 0.40]; and ratings of the interestingness of the tasks, t(31) - 1.04, d - 0.18, 95% CI [– 0.17, 0.53]. However, at the end of the initial learning phase, when students were asked to indicate which format they preferred, the majority of students preferred the paragraph format (20/32 students - 63%) to the concept map format (12/32 students - 37%)."
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.076,
+            0.778,
+            0.487,
+            0.896
+          ],
+          "content": "|  | Experi | ment 1 | Experi | ment 2 |\n| --- | --- | --- | --- | --- |\n| Learning activity | Period 1 | Period 2 | Period 1 | Period 2 |\n| Retrieval practice (no text) |  |  |  |  |\n| Concept map | .33 (.02) | .45 (.03) | .24 (.03) | .39 (.03) |\n| Paragraph | .44 (.03) | .64 (.03) | .27 (.03) | .48 (.04) |\n| Repeated study (text) |  |  |  |  |\n| Concept map | - | - | .48 (.02) | .58 (.03) |\n| Paragraph | - | - | .53 (.04) | .62 (.03) |",
+          "captions": [
+            {
+              "bbox": [
+                0.076,
+                0.746,
+                0.479,
+                0.775
+              ],
+              "content": "Proportion of Idea Units Produced in Each Learning Period in Experiments 1 and 2"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.076,
+                0.9,
+                0.431,
+                0.914
+              ],
+              "content": "Note. Standard errors of the means are shown in parentheses."
+            }
+          ],
+          "image_source": "images/page_3_table_8.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.094,
+            0.924,
+            0.391
+          ],
+          "content": "**Conditional analysis.** In the next two sections, we report two sets of analyses aimed at exploring differences in recall in the concept map and paragraph conditions. The left portion of Table 3 shows the results of an analysis of the relationship between initial learning performance and final short-answer performance (collapsed across question type) in Experiment 1. In order to analyze the fate of idea units on the final test, we coded short-answer questions based on the idea unit or units required to answer the questions. Verbatim questions typically required access to a single idea unit (collapsed across texts, M - 1.3 idea units per verbatim question). For example, the question “What happens when hemoglobin combines with oxygen?” corresponded to the idea unit “Hemoglobin releases oxygen to the lungs.” Inference questions required access to multiple idea units (collapsed across texts, M - 2.3 idea units per inference question). For example, the question “What would happen if blood did not contain white blood cells, and bacteria were introduced to the body?” relies on the following idea units: (a) “White blood cells are mainly disease fighters”; (b) “White blood cells digest bacteria and other foreign material”; and (c) “When there is an infection somewhere in the body, white blood cells move toward it.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.391,
+            0.924,
+            0.773
+          ],
+          "content": "We followed Tulving’s (1964) method to analyze the correspondence in recall of individual idea units across two tests (see also Karpicke & Zaromb, 2010). $C _ { I }$ refers to idea units produced in either Period 1 or 2 in the initial learning phase, and $N _ { I }$ refers to idea units that were not produced in the initial learning phase. $C _ { 2 }$ refers to short-answer questions correctly answered on the final short-answer test, and $N _ { 2 }$ refers to questions not correctly answered on the final test. As shown in Table 3, the joint probability of recalling an idea initially and correctly answering a final shortanswer question $( \\mathrm { C _ { 1 } C _ { 2 } } )$ was greater in the paragraph condition than in the concept map condition, t(31) - 3.68, d - 0.65, 95% CI [0.26, 1.03]. Likewise, the probability of not recalling an idea but then correctly answering a final question $( \\mathrm { N _ { 1 } C _ { 2 } } )$ was greater in the concept map condition than in the paragraph condition, t(31) - 2.45, d - 0.43, 95% CI [0.07, 0.79]. Together, these results reflect the fact that students initially recalled more ideas in paragraph format than they did in concept map format, yet the conditions produced equivalent levels of final short-answer performance. (We explore this pattern further in the analysis reported in the next section.) There was a small difference in intertest forgetting (the probability of recalling an idea but then failing to answer a shortanswer question; $\\mathrm { C _ { 1 } N _ { 2 } ) }$ across conditions, with the paragraph condition showing slightly less forgetting, t(31) - 1.67, d - 0.30, 95% CI [– 0.06, 0.65]. Finally, proportion of ideas not recalled or expressed on either test $( \\mathrm { N _ { 1 } N _ { 2 } } )$ was greater in the concept map condition relative to the paragraph condition, t(31) - 2.32, d - 0.41, 95% CI [0.05, 0.77]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.773,
+            0.924,
+            0.845
+          ],
+          "content": "**Initial recall and normative importance.** Students might have produced fewer ideas during initial concept map recall relative to initial paragraph recall because they adopted different output strategies in the two tasks. We reasoned that students might selectively produce only “important” ideas under concept map"
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.509,
+            0.865,
+            0.923,
+            0.915
+          ],
+          "content": "1 We report standardized mean differences (ds) and 95% confidence intervals around the effect size estimates (see Cumming, 2012), which were calculated using the Methods for the Behavioral, Educational, and Social Sciences (MBESS) package for R (Kelley, 2007)."
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.007,
+            0.271,
+            0.044,
+            0.733
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.369,
+            0.063,
+            0.63,
+            0.077
+          ],
+          "content": "RETRIEVAL-BASED CONCEPT MAPPING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.891,
+            0.065,
+            0.921,
+            0.078
+          ],
+          "content": "853"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.193,
+            0.093,
+            0.398,
+            0.309
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_chart_3.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.407,
+            0.095,
+            0.6,
+            0.308
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_chart_4.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.611,
+            0.096,
+            0.805,
+            0.31
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.192,
+                0.321,
+                0.806,
+                0.36
+              ],
+              "content": "Figure 2. Final short-answer performance for verbatim questions and inference questions (left and middle panels), and judgments of learning (right panel) in Experiment 1. Error bars represent standard errors of the means."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_4_chart_5.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.395,
+            0.49,
+            0.689
+          ],
+          "continues_prev": true,
+          "content": "conditions. To examine this possibility, we had 16 undergraduate students, who were not subjects in either experiment reported here, rate the importance of all 30 idea units from both texts, using a scale ranging from 1 (not important at all) to 5 (very important). The average importance rating was calculated for each idea unit, and the intraclass correlation among the average ratings was .78, indicating good interrater reliability (Shrout & Fleiss, 1979). If students selectively included important ideas in the concept map condition, then the average importance rating of recalled ideas should be greater in the concept map condition than in the paragraph recall condition. The results of our analysis confirmed this: Students tended to output ideas with higher normative importance ratings in the concept map condition (M - 3.86, SE - 0.02) than in the paragraph condition (M - 3.76, SE - 0.02), t(31) - 3.20, d - 0.57, 95% CI [0.19, 0.94]. Although the raw mean difference was small, the result was robust: for 28 of 32 students (88%), the mean normative importance of recalled ideas was greater in the concept map condition than in the paragraph condition. This analysis indicates that students might have covertly retrieved the same number of ideas in both retrieval practice conditions (which would still benefit learning; see Smith, Roediger, & Karpicke, 2013), but"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.395,
+            0.922,
+            0.425
+          ],
+          "continues_prev": true,
+          "content": "students chose to include the relatively more important ideas when creating their concept maps."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.51,
+            0.435,
+            0.595,
+            0.45
+          ],
+          "level": 2,
+          "content": "Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.457,
+            0.924,
+            0.626
+          ],
+          "content": "Experiment 1 showed that practicing retrieval in paragraph format or in concept map format produced approximately equivalent levels of performance on a delayed assessment of learning. Students also gave nearly identical subjective ratings to the two retrieval practice formats (judgments of learning and ratings of enjoyment, difficulty, and interestingness of the tasks), though students did tend to prefer the paragraph retrieval format relative to the concept map format. These results provide preliminary evidence that concept mapping may be an effective retrieval practice activity. Experiment 2 was carried out as a further investigation of the paragraph and concept map formats when used as either retrieval practice or repeated study activities."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.663,
+            0.637,
+            0.77,
+            0.652
+          ],
+          "level": 2,
+          "content": "Experiment 2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.51,
+            0.658,
+            0.922,
+            0.689
+          ],
+          "content": "Experiment 2 was designed with two main purposes in mind. First, we sought to replicate Experiment 1 and generalize the"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.193,
+            0.766,
+            0.804,
+            0.885
+          ],
+          "content": "|  |  | Experiment 1 |  |  | Experiment 2 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Learning activity | Enjoyment | Difficulty | Interest | Enjoyment | Difficulty | Interest |\n| Retrieval practice (no text) |  |  |  |  |  |  |\n| Concept map | .49 (.04) | .46 (.04) | .49 (.04) | .39 (.06) | .55 (.05) | .42 (.06) |\n| Paragraph | .51 (.04) | .47 (.04) | .53 (.04) | .40 (.04) | .54 (.06) | .49 (.04) |\n| Repeated study (text) |  |  |  |  |  |  |\n| Concept map | - | - | - | .50 (.06) | .40 (.04) | .55 (.05) |\n| Paragraph | - | - | - | .29 (.06) | .30 (.04) | .32 (.06) |",
+          "captions": [
+            {
+              "bbox": [
+                0.192,
+                0.735,
+                0.768,
+                0.765
+              ],
+              "content": "Students’ Ratings of Enjoyment, Difficulty, and Interestingness of the Learning Activities in Experiments 1 and 2"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.192,
+                0.889,
+                0.806,
+                0.915
+              ],
+              "content": "Note. Students’ ratings were indicated on a scale from 0 (not at all) to 100 (totally). Ratings were then converted to proportions. Standard errors of the means are shown in parentheses."
+            }
+          ],
+          "image_source": "images/page_4_table_14.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.007,
+            0.271,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.077,
+            0.065,
+            0.109,
+            0.078
+          ],
+          "content": "854"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.421,
+            0.063,
+            0.579,
+            0.077
+          ],
+          "content": "BLUNT AND KARPICKE"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.076,
+            0.124,
+            0.921,
+            0.244
+          ],
+          "content": "<table><tr><td rowspan=\"2\">Learning activity</td><td colspan=\"4\">Experiment 1</td><td colspan=\"4\">Experiment 2</td></tr><tr><td> $C_1C_2$ </td><td> $C_1N_2$ </td><td> $N_1C_2$ </td><td> $N_1N_2$ </td><td> $C_1C_2$ </td><td> $C_1N_2$ </td><td> $N_1C_2$ </td><td> $N_1N_2$ </td></tr><tr><td colspan=\"9\">Retrieval practice (no text)</td></tr><tr><td>Concept map</td><td>.34 (.05)</td><td>.08 (.02)</td><td>.38 (.04)</td><td>.20 (.05)</td><td>.20 (.04)</td><td>.13 (.02)</td><td>.38 (.04)</td><td>.29 (.05)</td></tr><tr><td>Paragraph</td><td>.51 (.05)</td><td>.11 (.02)</td><td>.29 (.02)</td><td>.09 (.03)</td><td>.28 (.04)</td><td>.15 (.01)</td><td>.31 (.02)</td><td>.26 (.04)</td></tr><tr><td colspan=\"9\">Repeated study (text)</td></tr><tr><td>Concept map</td><td>—</td><td>—</td><td>—</td><td>—</td><td>.28 (.04)</td><td>.26 (.03)</td><td>.24 (.02)</td><td>.21 (.03)</td></tr><tr><td>Paragraph</td><td>—</td><td>—</td><td>—</td><td>—</td><td>.25 (.04)</td><td>.31 (.02)</td><td>.18 (.02)</td><td>.26 (.04)</td></tr></table>",
+          "captions": [
+            {
+              "bbox": [
+                0.076,
+                0.108,
+                0.772,
+                0.122
+              ],
+              "content": "Joint Probabilities Between Initial Performance and Final Short-Answer Performance in Experiments 1 and 2"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.075,
+                0.248,
+                0.923,
+                0.284
+              ],
+              "content": "Note. Standard errors of the means are shown in parentheses. $\\mathrm { C _ { 1 } } =$ items produced during the initial learning activity; N<sub>1</sub> - items that were not produced during the initial learning activity; $\\mathrm { C } _ { 2 }$ - questions correctly answered on the final short answer test; N<sub>2</sub> - questions not correctly answered on the final short answer test."
+            }
+          ],
+          "image_source": "images/page_5_table_4.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.305,
+            0.49,
+            0.531
+          ],
+          "continues_prev": true,
+          "content": "results to a new set of text materials. Second, we included two new conditions to directly compare concept mapping and paragraph formats when they are used as retrieval practice activities (without the texts) with when they are used as repeated study activities (with the texts present; see Agarwal, Karpicke, Kang, Roediger, & McDermott, 2008; Agarwal & Roediger, 2011). Thus, in Experiment 2, we factorially crossed the presence of the material during the learning activity (text vs. no text) with the format of the learning activity (concept map vs. paragraph format). Our prediction was that the retrieval-based learning conditions would enhance long-term retention more than the repeated study conditions, even though students in the two conditions completed the exact same activities either with or without the materials in front of them. This result would support the idea that practicing retrieval, rather than the mere act of writing down the material in paragraph or concept map format, is the key to promoting long-term learning."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.544,
+            0.141,
+            0.558
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.565,
+            0.488,
+            0.608
+          ],
+          "content": "**Subjects.** Eighty Purdue University undergraduates participated in partial fulfillment of course requirements. None of the students had participated in Experiment 1."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.608,
+            0.488,
+            0.705
+          ],
+          "content": "**Materials.** Two science texts were based on information in Stabler, Metz, and Gier (2011). One text, “Enyzmes,” had a generalization structure (Meyer, 1975), which means the sentences in the passage provided clarification or examples of one main idea. The other text, “Domains of Life,” had an enumeration structure (like the “Make-Up of Human Blood” text used in Experiment 1). The texts were 283 and 282 words in length, respectively."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.705,
+            0.488,
+            0.789
+          ],
+          "content": "**Design.** A 2 (activity format: concept map vs. paragraph) $\\times   2$ (learning condition: repeated study vs. retrieval practice) betweensubjects design was used. There were four conditions, and 20 students were assigned to each condition. Each student completed the same activity for two texts, and the order in which the texts were presented was held constant across students."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.788,
+            0.49,
+            0.915
+          ],
+          "content": "**Procedure.** The procedure was similar to the one used in Experiment 1. Students were tested in small groups in two sessions, and each student was assigned to one of four learning conditions: (a) repeated study– concept map, (b) repeated study– paragraph, (c) retrieval practice– concept map, and (d) retrieval practice–paragraph. During the learning phase, students read one text for 5 min, engaged in a learning activity for 10 min, reread the text for 5 min, and completed the learning activity again for 10 min. Students then repeated the procedure for the second text. All"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.305,
+            0.924,
+            0.543
+          ],
+          "continues_prev": true,
+          "content": "instructions were identical in the repeated study and retrieval practice conditions, and the total amount of learning time was equivalent in all conditions. The only difference was that in the repeated study conditions, students viewed the texts while they completed the learning activities, whereas in the retrieval practice conditions the students completed the activities without the texts (as in Experiment 1). Thus, students in the repeated study– concept map condition completed their concept maps while reading the texts (Karpicke & Blunt, 2011), and students in the repeated study–paragraph condition were instructed to write everything from the text on their paper in paragraph format (essentially copying the text). In both conditions, students were told to include all of the ideas from the texts. Texts were presented on the computer screen, and students completed the concept mapping or paragraph activities on paper. The subjective rating procedures and the final short answer test procedures were identical to those used in Experiment 1."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.51,
+            0.558,
+            0.572,
+            0.573
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.58,
+            0.924,
+            0.649
+          ],
+          "content": "An initial analysis indicated that there were no differences among the counterbalancing orders, and the levels of performance and patterns of results were the same for the two texts. Thus, the results have been collapsed across counterbalancing orders and texts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.649,
+            0.924,
+            0.72
+          ],
+          "content": "**Scoring.** The texts were divided into 40 idea units for scoring purposes, and the scoring procedure used in Experiment 1 was used in Experiment 2. Two independent raters scored all recall protocols and short-answer tests, and a third rater resolved all discrepancies to achieve 100% agreement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.72,
+            0.925,
+            0.915
+          ],
+          "content": "**Learning performance.** The right portion of Table 1 shows the mean proportion of idea units produced in each period in the initial learning phase in Experiment 2. Collapsed across conditions, the proportion of ideas produced increased from Period 1 to Period 2 (.38 vs. .52), t(79) - 11.59, d - 1.33, 95% CI [1.02, 1.62]. Students in the repeated study condition (who viewed the texts during the concept map and paragraph activities) produced more ideas than did students in the retrieval practice conditions. This was true for both activity formats in Period 1 (.50 vs. .25), t(78) - 8.25, d - 1.85, 95% CI [1.32, 2.36], and Period 2 (.60 vs..44), t(78) - 5.06, d - 1.13, 95% CI [0.65, 1.60]. In the repeated study conditions, there were very small differences in the proportion of ideas produced in the concept map and paragraph formats in Period 1 (M - 0.48 vs. 0.53), t(38) - 1.07, d - 0.34, 95% CI"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.007,
+            0.27,
+            0.044,
+            0.733
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.368,
+            0.063,
+            0.63,
+            0.076
+          ],
+          "content": "RETRIEVAL-BASED CONCEPT MAPPING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.891,
+            0.065,
+            0.921,
+            0.078
+          ],
+          "content": "855"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.094,
+            0.488,
+            0.205
+          ],
+          "continues_prev": true,
+          "content": "[– 0.29, 0.96], or in Period $2 \\left( M = 0 . 5 8 \\; \\mathrm { v s . } \\; 0 . 6 2 \\right) , t \\left( 3 8 \\right) = 0 . 7 0 , d =$ 0.31, 95% CI [– 0.31, 0.93]. However, as in Experiment 1, students tended to recall more ideas in the paragraph condition than in the concept map condition. There was a small difference in Period 1, (.27 vs. .24), t(38) - 0.56, d - 0.18, 95% CI [– 0.44, 0.80], and a larger difference in Period 2, $( . 4 8 \\; \\mathrm { v s . } \\; . 3 9 ) ,   t ( 3 8 ) = 1 . 9 6 ,   d = 0 . 6 2 ,$ 95% CI [– 0.02, 1.25]. In a later section, we report an analysis of the role of idea unit importance in students’ performance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.205,
+            0.489,
+            0.302
+          ],
+          "content": "**Final short-answer performance.** Figure 3 shows performance on the final short-answer test 1 week after the initial learning phase. In general, students in the retrieval practice conditions (without the text available) performed better than students in the repeated study conditions (with the text available), but whether the activity was in concept map or paragraph format made little difference for long-term retention."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.302,
+            0.489,
+            0.511
+          ],
+          "content": "For verbatim questions, collapsed across activity formats, students in the retrieval practice (no text) conditions outperformed students in the repeated study (with text) conditions (.48 vs. .38), t(78) - 2.22, d - 0.50, 95% CI [0.05, 0.94]. In the retrieval practice condition, there was a small difference between the paragraph and concept map formats, favoring the paragraph format, as was the case in Experiment 1 (.49 vs. .46), t(38) - 0.50, d - 0.16, 95% CI [– 0.46, 0.78]. However, in the repeated study condition, there was a larger difference between activity formats, favoring the concept map format over the paragraph format (.43 vs. .33), t(38) - 1.59, d - 0.50, 95% CI [– 0.13, 1.13]. This result supports the idea that creating a concept map while studying a text afforded elaborative encoding, as concept mapping enhanced long-term retention relative to essentially copying the text in the repeated study–paragraph condition."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.51,
+            0.489,
+            0.678
+          ],
+          "content": "The pattern of results was similar for the inference questions. Collapsed across activity formats, students in the retrieval practice conditions outperformed students in the repeated study conditions (.39 vs. .31), t(38) - 2.07, d - 0.46, 95% CI [0.02, 0.91]. In the retrieval practice condition, there was almost no difference between the paragraph and concept map formats (.40 vs. .39), t(38) - 0.27, d - 0.09, 95% CI [– 0.53, 0.70]. Likewise, there was almost no difference between activity formats in the repeated study condition (.30 vs. .32), t(38) - 0.30, d - 0.09, 95% CI [– 0.52, 0.71], a result that is somewhat surprising in light of the advantage of concept mapping seen in the verbatim questions, as reported earlier."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.094,
+            0.924,
+            0.331
+          ],
+          "content": "**Subjective ratings.** The right panel of Figure 3 shows students’ judgments of learning, which were made at the end of each task in the learning phase. Collapsed across activity formats, judgments of learning were higher in the repeated study conditions relative to the retrieval practice conditions (.56 vs. .48), t(78) - 1.32, d - 0.30, 95% CI [– 0.15, 0.74]. Although the effect was small in the present experiment, the finding that students believed they had learned more after repeatedly studying than after practicing retrieval is consistent with a wealth of prior work (e.g., Agarwal et al., 2008; Karpicke & Blunt, 2011; see Karpicke, 2012, for review). In the repeated study condition, students’ judgments of learning were higher in the concept map condition than in the paragraph condition (.61 vs. .50), t(38) - 1.46, d - 0.46, 95% CI [– 0.17, 1.09]. In the retrieval practice condition, the opposite pattern occurred: students’ judgments of learning were higher in the paragraph condition than in the concept map condition (.53 vs..43), t(38) - 1.27, d - 0.51, 95% CI [– 0.13, 1.13]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.33,
+            0.924,
+            0.58
+          ],
+          "content": "Table 2 shows students’ additional ratings of their subjective experiences in the learning tasks, and here we highlight a few findings displayed in the table. Students rated the repeated study– concept map condition as most enjoyable and the repeated study– paragraph task as least enjoyable (.50 vs. .29), t(38) - 2.47, d - 0.78, 95% CI [0.13, 1.42], which is likely due to boredom associated with simply copying the text in the latter condition. The enjoyment ratings of the two retrieval practice conditions fell in between the ratings of the two repeated study conditions. A similar pattern was observed in the interest ratings: students rated the repeated study– concept map task as most interesting and the repeated study–paragraph task as least interesting (.55 vs. .32), t(38) - 2.99, d - 0.94, 95% CI [0.28, 1.59], and the interest ratings of the two retrieval practice conditions fell in between the ratings of the two repeated study conditions. Finally, collapsed across activity formats, the retrieval practice tasks were rated as more difficult than the repeated study tasks (.54 vs. .35), t(78) - 3.93, d - 0.89, 95% CI [0.42, 1.34]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.58,
+            0.924,
+            0.679
+          ],
+          "content": "**Conditional analysis.** The right portion of Table 3 shows the results of an analysis of the relationship between initial learning performance and final short-answer performance in Experiment 2. As in Experiment 1, short-answer questions were coded based on the idea unit or units required to answer the questions. Verbatim questions typically required access to a single idea unit (M - 1.5 idea units per verbatim question). For example, the question “What"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.191,
+            0.707,
+            0.397,
+            0.863
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.234,
+                0.695,
+                0.362,
+                0.709
+              ],
+              "content": "Verbatim Questions"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_6_chart_11.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.401,
+            0.695,
+            0.604,
+            0.864
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_6_chart_12.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.608,
+            0.718,
+            0.803,
+            0.865
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.191,
+                0.875,
+                0.807,
+                0.914
+              ],
+              "content": "Figure 3. Final short-answer performance for verbatim questions and inference questions (left and middle panels), and judgments of learning (right panel) in Experiment 2. Error bars represent standard errors of the means."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_6_chart_13.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.271,
+            0.044,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.078,
+            0.065,
+            0.109,
+            0.078
+          ],
+          "content": "856"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.421,
+            0.063,
+            0.578,
+            0.076
+          ],
+          "content": "BLUNT AND KARPICKE"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.094,
+            0.489,
+            0.221
+          ],
+          "continues_prev": true,
+          "content": "do proteins lose at high temperatures?” corresponded to the idea unit “Proteins lose their structure at high temperatures.” Inference questions required access to multiple idea units $( M = 2 . 9$ idea units per inference question). For example, the question “What happens to catalytic activity if temperature decreases?” relies on the following idea units: (a) “Catalytic activity is greatly affected by temperature”; (b) “Increasing temperature will also increase the amount of free energy”; (c) “This results in an increased rate of collision”; and (d) “[This] leads to a faster reaction time.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.221,
+            0.489,
+            0.405
+          ],
+          "content": "First, we analyzed the relationship between initial learning performance and final short-answer performance, collapsing across activity format (concept map vs. paragraph). As shown in Table 3, the probability of recalling an idea but then failing to answer a short-answer question (intertest forgetting; $\\mathrm { C _ { 1 } N _ { 2 } ) }$ was greater in restudy conditions than in the retrieval practice conditions, $t(78) =$ 7.25, $d = 1 . 6 2$ , 95% CI [1.11, 2.12]. Likewise, the probability of not recalling an idea but then correctly answering a final question $( \\mathrm { N _ { 1 } C _ { 2 } } )$ was greater in retrieval practice conditions than in restudy conditions, $t(78)   =   4.99,   d   =   1.12$ , 95% CI [0.64, 1.58]. There were small differences across conditions in $C_{1}C_{2}, t(78) = 0.60,$ $d = 0.13, 95\\%  CI  \\left[ -0.31, 0.57 \\right]$ , and $\\mathrm { N } _ { 1 } \\mathrm { N } _ { 2 } , t ( 7 8 ) = 0 . 8 8 , d = 0 . 2 0$ 95% $\\mathrm { C I } [ - 0 . 2 4 ,   0 . 6 4 ]$"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.406,
+            0.489,
+            0.66
+          ],
+          "content": "The pattern of results within the retrieval practice conditions (comparing the concept map format with the paragraph format) replicated the results of Experiment 1. The joint probability of recalling an idea initially and correctly answering a final shortanswer question $( \\mathbb { C } _ { 1 } \\mathbb { C } _ { 2 } )$ was slightly greater in the paragraph condition than in the concept map condition, $t(38)   =   1.46,   d   =$ 0.46, 95% CI [– 0.17, 1.09]. Likewise, the probability of not recalling an idea but then correctly answering a final question $( \\mathrm { N _ { 1 } C _ { 2 } } )$ was slightly greater in the concept map condition than in the paragraph condition, $t(38) = 1.63,   d = 0.52,   95\\%   CI   [-0.12,$ 1.14]. There was a small difference in intertest forgetting (the probability of recalling an idea but then failing to answer a shortanswer question; $\\mathrm { C _ { 1 } N _ { 2 } ) }$ across conditions, with those in the paragraph condition showing slightly less forgetting, $t(38) = 0.91\\ d =$ 0.29, 95% CI [– 0.34, 0.91]. Finally, the proportion of ideas not recalled or expressed on either test $( \\mathrm { N _ { 1 } N _ { 2 } } )$ was slightly greater in the concept map condition relative to the paragraph condition, $t(38) = 0.93,   d = 0.29$ , 95% CI [– 0.33, 0.92]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.66,
+            0.49,
+            0.915
+          ],
+          "content": "**Initial recall and normative importance.** As in Experiment 1, 16 independent raters, who had not served as raters or subjects in Experiments 1 or 2, rated the importance of each idea unit in the two texts used in Experiment 2, using a scale from 1 (not important at all) to 5 (very important). The average importance rating was calculated for each idea unit, and the intraclass correlation among the average ratings was .80. In the retrieval practice condition, the mean importance rating of the idea units that students recalled was greater in the concept map condition $( M = 3 . 6 0 ,   S E = 0 . 0 2 )$ than in the paragraph condition (M - 3.48, SE - 0.03), t(38) - 3.00, $d   =   0 . 9 5$ , 95% CI [0.29, 1.60]. However, in the repeated study condition, there was a smaller difference between the mean importance ratings in the concept map $(M = 3.54, SE = 0.02)$ and paragraph conditions (M - 3.50, SE - 0.02), t(38) - 1.36, d - 0.43, 95% CI [– 0.20, 1.05]. Thus, as in Experiment 1, when students practiced retrieval, they tended to include ideas with higher normative importance ratings in the concept map conditions than in the paragraph conditions, though this difference was much"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.095,
+            0.923,
+            0.122
+          ],
+          "continues_prev": true,
+          "content": "smaller when students completed the activities with the materials in front of them."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.51,
+            0.14,
+            0.595,
+            0.155
+          ],
+          "level": 2,
+          "content": "Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.163,
+            0.925,
+            0.485
+          ],
+          "content": "Experiment 2 showed that actively retrieving material during learning, either by creating concept maps or by writing the material in paragraph format, enhanced long-term retention more than completing the same activities in the presence of the materials (as study activities). Practicing retrieval produced more learning than repeated studying even though students re-experienced the entire set of material in the repeated study conditions, whereas students only re-experienced what they could recall in the retrieval practice conditions. Indeed, the proportion of ideas recalled in the retrieval practice conditions was lower than the proportion of ideas produced on the concept map or paragraph protocols in the repeated study conditions. It is important to note that the concept map and paragraph formats were equally effective as retrieval practice activities. As in Experiment 1, there were no additional benefits conferred by retrieval-based concept mapping beyond practicing retrieval in paragraph format. There was a small cost to retrievalbased concept mapping in the initial recall periods, on which students recalled fewer ideas in the concept map condition than in the paragraph condition. However, this cost was not seen on the final delayed assessments of long-term retention. Together with Experiment 1, the results of Experiment 2 show that concept mapping can serve as an effective learning task when it is implemented as a retrieval-based learning activity."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.644,
+            0.503,
+            0.79,
+            0.517
+          ],
+          "level": 2,
+          "content": "General Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.525,
+            0.924,
+            0.635
+          ],
+          "content": "The purpose of the present experiments was to examine the effectiveness of retrieval-based concept mapping. The results show that the critical factor in retrieval-based learning is requiring students to think back to and recall material, while the format in which information is retrieved (concept map or paragraph format) did not much matter. We review three important findings from the present experiments in light of hypotheses proposed in the introduction."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.635,
+            0.924,
+            0.817
+          ],
+          "content": "First, concept mapping and paragraph formats were equally effective retrieval-based learning activities. When students created retrieval-based concept maps of the materials, there were no practical differences, relative to recalling in paragraph format, on delayed short-answer performance in Experiment 1 or 2. Furthermore, Experiment 2 showed that both activity formats produced retrieval practice effects: Students performed better on a final test when the initial activities required retrieval (in the absence of the texts) rather than studying or elaborating on the material (in the presence of the texts). This advantage of retrieval practice occurred even though students in the retrieval conditions produced less material during the initial learning activities relative to students in the repeated study conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.816,
+            0.924,
+            0.915
+          ],
+          "content": "Second, retrieving in paragraph format produced greater longterm performance relative to restudying and rewriting the material in paragraph format. It is reasonable to wonder whether the locus of retrieval practice effects rests in the act of writing itself, rather than in the mental activity of retrieving and reconstructing knowledge. If this were the case, the repeated study–paragraph condition in Experiment 2 should have produced long-term performance"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.369,
+            0.063,
+            0.63,
+            0.076
+          ],
+          "content": "RETRIEVAL-BASED CONCEPT MAPPING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.892,
+            0.065,
+            0.921,
+            0.078
+          ],
+          "content": "857"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.271,
+            0.043,
+            0.732
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.095,
+            0.489,
+            0.205
+          ],
+          "continues_prev": true,
+          "content": "similar to that produced by the retrieval practice–paragraph condition. Indeed, because students were able to re-experience the entire set of material in the repeated study condition, one might expect that condition to outperform the retrieval practice condition. However, the opposite result occurred in Experiment 2, confirming that the act of retrieving knowledge itself, rather than the act of writing, drives the benefits seen in retrieval-based learning activities."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.205,
+            0.489,
+            0.497
+          ],
+          "content": "Third, students generally believed they had learned more after repeatedly studying than after practicing retrieval. This result is consistent with a wealth of prior research (see Karpicke, 2012) and is also broadly consistent with a cue utilization approach to metacognitive judgments (e.g., Koriat, 1997). According to this view, students base their judgments of learning in part on the ease of processing they experience during a learning activity. When students complete activities with the text in front of them, processing is fluent and easy, whereas when students complete activities without the text, they base their judgments on the ease or difficulty with which the material can be brought back to mind during retrieval. Thus, repeated study activities tend to afford overconfident judgments of learning, whereas retrieval practice leads to underconfident judgments. In Experiment 2, students rated concept mapping as more interesting and enjoyable than studying by copying the text in paragraph form, but students’ ratings did not differ among concept map and paragraph formats when completed as retrieval activities. Despite some speculation that concept mapping might somehow promote or improve metacognitive performance (e.g., Mintzes et al., 1997), the present experiments offer no evidence that this is true (see too Karpicke & Blunt, 2011)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.497,
+            0.489,
+            0.776
+          ],
+          "content": "The key finding from the present experiments was that retrieval practice was equally effective when done in concept map or paragraph format. Students did not gain additional benefits by retrieving knowledge in concept map format relative to retrieving in paragraph format. Concept mapping is assumed to promote organizational or relational processing that should improve learning, but our results are consistent with the possibility that such organizational processing may be redundant with the processing people already engage in when practicing retrieval in other ways. Furthermore, practicing retrieval in concept map format did not impair learning relative to practicing retrieval in paragraph format. This finding suggests that the concept mapping task did not introduce extra cognitive load or divide attention in ways that were detrimental to learning. When students retrieved in concept map format, they tended to recall fewer ideas than when they retrieved in paragraph format, because they selectively reported ideas that were rated as most important. However, this was not detrimental to long-term learning either. Thus, the present experiments support the conclusion that concept mapping can indeed function as an effective learning activity when it involves practicing retrieval."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.794,
+            0.165,
+            0.808
+          ],
+          "level": 2,
+          "content": "Conclusion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.816,
+            0.489,
+            0.915
+          ],
+          "content": "Retrieval practice is a powerful way to enhance long-term meaningful learning of educationally relevant content. The present results show that practicing retrieval, either by creating concept maps or by writing down the material in paragraph format, enhanced long-term learning more than completing the same tasks as study activities. The locus of these learning effects was in the act of retrieving knowledge, rather than the mere act of writing down"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.095,
+            0.924,
+            0.181
+          ],
+          "continues_prev": true,
+          "content": "the material in paragraph or concept map format. It is important to note that the results show that concept mapping can indeed serve as an effective task when it is implemented as a retrieval-based learning activity. The key element for promoting meaningful learning was not the format of the activity; it was the requirement to engage in active retrieval practice during learning."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.675,
+            0.203,
+            0.759,
+            0.217
+          ],
+          "level": 2,
+          "content": "References"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.226,
+            0.921,
+            0.276
+          ],
+          "content": "Agarwal, P. K., Karpicke, J. D., Kang, S. H., Roediger, H. L., & McDermott, K. B. (2008). Examining the testing effect with open- and closedbook tests. Applied Cognitive Psychology, 22, 861– 876. [doi:10.1002/ acp.1391](http://dx.doi.org/10.1002/acp.1391)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.278,
+            0.921,
+            0.315
+          ],
+          "content": "Agarwal, P. K., & Roediger, H. L., III. (2011). Expectancy of an open-book test decreases performance on a delayed closed-book test. Memory, 19, 836 – 852."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.512,
+            0.317,
+            0.921,
+            0.343
+          ],
+          "content": "Cook, L. K., & Mayer, R. E. (1988). Teaching readers about the structure of scientific text. Journal of Educational Psychology, 80, 448 – 456."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.344,
+            0.919,
+            0.368
+          ],
+          "content": "Cumming, G. (2012). Understanding the new statistics: Effect sizes, confidence intervals, and meta-analysis. New York, NY: Routledge."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.369,
+            0.921,
+            0.406
+          ],
+          "content": "Hay, D., Kinchin, I., & Lygo-Baker, S. (2008). Making learning visible: The role of concept mapping in higher education. Studies in Higher Education, 33, 295–311. [doi:10.1080/03075070802049251](http://dx.doi.org/10.1080/03075070802049251)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.408,
+            0.921,
+            0.445
+          ],
+          "content": "Karpicke, J. D. (2012). Retrieval-based learning: Active retrieval promotes meaningful learning. Current Directions in Psychological Science, 21, 157–163. [doi:10.1177/0963721412443552](http://dx.doi.org/10.1177/0963721412443552)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.447,
+            0.921,
+            0.485
+          ],
+          "content": "Karpicke, J. D., & Blunt, J. R. (2011, February 11). Retrieval practice produces more learning than elaborative studying with concept mapping. Science, 331, 772–775. [doi:10.1126/science.1199327](http://dx.doi.org/10.1126/science.1199327)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.486,
+            0.922,
+            0.524
+          ],
+          "content": "Karpicke, J. D., Lehman, M., & Aue, W. R. (in press). Retrieval-based learning: An episodic context account. In B. Ross (Ed.), The psychology of learning and motivation. New York, NY: Elsevier."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.525,
+            0.921,
+            0.562
+          ],
+          "content": "Karpicke, J. D., & Roediger, H. L., III. (2010). Is expanding retrieval a superior method for learning text materials? Memory & Cognition, 38, 116 –124. [doi:10.3758/MC.38.1.116](http://dx.doi.org/10.3758/MC.38.1.116)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.564,
+            0.922,
+            0.602
+          ],
+          "content": "Karpicke, J. D., & Smith, M. A. (2012). Separate mnemonic effects of retrieval practice and elaborative encoding. Journal of Memory and Language, 67, 17–29. [doi:10.1016/j.jml.2012.02.004](http://dx.doi.org/10.1016/j.jml.2012.02.004)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.603,
+            0.922,
+            0.641
+          ],
+          "content": "Karpicke, J. D., & Zaromb, F. M. (2010). Retrieval mode distinguishes the testing effect from the generation effect. Journal of Memory and Language, 62, 227–239. [doi:10.1016/j.jml.2009.11.010](http://dx.doi.org/10.1016/j.jml.2009.11.010)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.641,
+            0.921,
+            0.679
+          ],
+          "content": "Kelley, K. (2007). Methods for the behavioral, educational, and social science: An R package. Behavior Research Methods, 39, 979 –984. [doi:10.3758/BF03192993](http://dx.doi.org/10.3758/BF03192993)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.68,
+            0.922,
+            0.731
+          ],
+          "content": "Koriat, A. (1997). Monitoring one’s own knowledge during study: A cue-utilization approach to judgments of learning. Journal of Experimental Psychology: General, 126, 349 –370. [doi:10.1037/0096-3445.126.4.349](http://dx.doi.org/10.1037/0096-3445.126.4.349)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.733,
+            0.921,
+            0.758
+          ],
+          "content": "Meyer, B. J. (1975). The organization of prose and its effects on memory. Amsterdam, the Netherlands: North-Holland."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.759,
+            0.921,
+            0.809
+          ],
+          "content": "Mintzes, J. J., Wandersee, J. H., & Novak, J. D. (1997). Meaningful learning in science: The human constructivist perspective. In G. D. Phye (Ed.), Handbook of academic learning (pp. 405– 447). Orlando, FL: Academic Press. [doi:10.1016/B978-012554255-5/50014-4](http://dx.doi.org/10.1016/B978-012554255-5/50014-4)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.512,
+            0.81,
+            0.921,
+            0.848
+          ],
+          "content": "Novak, J. D. (1976). Understanding the learning process and effectiveness of teaching methods in the classroom, laboratory, and field. Science Education, 60, 493–512. [doi:10.1002/sce.3730600410](http://dx.doi.org/10.1002/sce.3730600410)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.849,
+            0.921,
+            0.887
+          ],
+          "content": "Novak, J. D. (2005). Results and implications of a 12-year longitudinal study of science concept learning. Research in Science Education, 35, 23– 40. [doi:10.1007/s11165-004-3431-4](http://dx.doi.org/10.1007/s11165-004-3431-4)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.512,
+            0.888,
+            0.921,
+            0.913
+          ],
+          "content": "Novak, J. D., & Gowin, D. B. (1984). Learning how to learn. New York, NY: Cambridge University Press. [doi:10.1017/CBO9781139173469](http://dx.doi.org/10.1017/CBO9781139173469)"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.008,
+            0.271,
+            0.044,
+            0.733
+          ],
+          "content": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.078,
+            0.065,
+            0.108,
+            0.077
+          ],
+          "content": "858"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.422,
+            0.064,
+            0.578,
+            0.076
+          ],
+          "content": "BLUNT AND KARPICKE"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.079,
+            0.095,
+            0.485,
+            0.132
+          ],
+          "content": "Roediger, H. L., III, & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17, 249 –255. [doi:10.1111/j.1467-9280.2006.01693.x](http://dx.doi.org/10.1111/j.1467-9280.2006.01693.x)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.08,
+            0.133,
+            0.485,
+            0.157
+          ],
+          "content": "Shrout, P. E., & Fleiss, J. L. (1979). Intraclass correlations: Uses in assessing rater reliability. Psychological Bulletin, 86, 420 – 428."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.08,
+            0.159,
+            0.486,
+            0.195
+          ],
+          "content": "Smith, M. A., Roediger, H. L., & Karpicke, J. D. (2013). Covert retrieval practice benefits retention as much as overt retrieval practice. Journal of Experimental Psychology: Learning, Memory, and Cognition, 39, 1712–1725."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.079,
+            0.196,
+            0.485,
+            0.219
+          ],
+          "content": "Stabler, L. B., Metz, M., & Gier, P. (2011). AP Biology 2012. New York, NY: Kaplan."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.095,
+            0.92,
+            0.131
+          ],
+          "content": "Stewart, J., Van Kirk, J., & Rowell, R. (1979). Concept maps: A tool for use in biology teaching. The American Biology Teacher, 41, 171–175. [doi:10.2307/4446530](http://dx.doi.org/10.2307/4446530)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.133,
+            0.92,
+            0.169
+          ],
+          "content": "Tulving, E. (1964). Intratrial and intertrial retention: Notes toward a theory of free recall verbal learning. Psychological Review, 71, 219 –237. [doi:10.1037/h0043186](http://dx.doi.org/10.1037/h0043186)"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.171,
+            0.921,
+            0.195
+          ],
+          "content": "Tulving, E. (1983). Elements of episodic memory. New York, NY: Oxford University Press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.514,
+            0.196,
+            0.92,
+            0.22
+          ],
+          "content": "Vanides, J., Yin, Y., Tomita, M., & Ruiz-Primo, M. A. (2005). Using concept maps in the science classroom. Science Scope, 28, 27–31."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.462,
+            0.267,
+            0.538,
+            0.282
+          ],
+          "level": 2,
+          "content": "Appendix"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.167,
+            0.289,
+            0.832,
+            0.305
+          ],
+          "content": "**Examples of Verbatim and Inference Questions Used in Experiment 1**<strong><sup>a</sup></strong> **and Experiment 2**"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.319,
+            0.481,
+            0.35
+          ],
+          "content": "**Experiment 1. Sample questions from text on “Make-Up of Human Blood”:**"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.36,
+            0.202,
+            0.373
+          ],
+          "content": "Verbatim question:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.373,
+            0.45,
+            0.403
+          ],
+          "content": "“What happens when hemoglobin combines with oxygen?” (Sample answer: Oxygen is released to cells in the body.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.41,
+            0.201,
+            0.423
+          ],
+          "content": "Inference question:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.424,
+            0.487,
+            0.451
+          ],
+          "content": "“What would happen to blood flow from a wound if the body did not have fibrin?”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.452,
+            0.487,
+            0.482
+          ],
+          "content": "(Sample answer: Blood would not clot, because fibrin is needed to form a meshwork of fibers that trap blood cells and aid in clotting.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.51,
+            0.319,
+            0.85,
+            0.349
+          ],
+          "content": "**Experiment 2. Sample questions from text on “Enzymes”:**"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.512,
+            0.36,
+            0.635,
+            0.373
+          ],
+          "content": "Verbatim question:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.511,
+            0.373,
+            0.782,
+            0.402
+          ],
+          "content": "“What are two forms of free energy?” (Sample answer: Heat and kinetic energy.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.511,
+            0.409,
+            0.635,
+            0.423
+          ],
+          "content": "Inference question:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.51,
+            0.425,
+            0.922,
+            0.482
+          ],
+          "content": "“What happens to catalytic activity if temperature decreases?” (Sample answer: Catalytic activity decreases because increasing temperature increases the rate of molecular collision, which leads to a faster reaction time.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.51,
+            0.884,
+            0.525
+          ],
+          "content": "a For a complete set of questions, see Karpicke & Blunt (2011)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.676,
+            0.533,
+            0.922,
+            0.575
+          ],
+          "content": "Received June 7, 2013 Revision received October 21, 2013 Accepted December 29, 2013 -"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.1.3"
+    },
+    "document": {
+      "created_at": "2014-07-23T13:23:42Z",
+      "modified_at": "2014-07-23T13:23:42Z",
+      "creator_application": "XPP",
+      "page_count": 10,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 594.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

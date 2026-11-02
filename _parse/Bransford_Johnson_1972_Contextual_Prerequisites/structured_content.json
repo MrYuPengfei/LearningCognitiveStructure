@@ -1,0 +1,1735 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.001,
+            0.082,
+            0.09,
+            0.402
+          ],
+          "content": "human learning\nCo., 1942.\netitions, blank\nin free recall\nPsychology,\ngleichzeitiger\nchologie, 1902,\ny for repeated\nly Journal of\n14–25.\nions in short-\nal Psychology,\nof words: An\nPsychological\nN, C. K. Pro-\nin short-term\ng and Verbal\nof intraserial\nn and recall.\ny, 1968, 77,"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.056,
+            0.549,
+            0.071
+          ],
+          "content": "JOURNAL OF VERBAL LEARNING AND VERBAL BEHAVIOR 11, 717–726 (1972)"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.201,
+            0.119,
+            0.676,
+            0.158
+          ],
+          "level": 1,
+          "content": "Contextual Prerequisites for Understanding: Some Investigations of Comprehension and Recall $^{1}$"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.269,
+            0.17,
+            0.606,
+            0.186
+          ],
+          "content": "JOHN D. BRANSFORD AND MARCIA K. JOHNSON"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.257,
+            0.19,
+            0.619,
+            0.206
+          ],
+          "content": "State University of New York, Stony Brook, New York 11790"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.169,
+            0.219,
+            0.705,
+            0.31
+          ],
+          "content": "The present paper presents a series of studies showing that relevant contextual knowledge is a prerequisite for comprehending prose passages. Four studies are reported, each demonstrating increased comprehension ratings and recall scores when Ss were supplied with appropriate information before they heard test passages. Supplying Ss with the same information subsequent to the passages produced much lower comprehension ratings and recall scores. Various explanations of the results are considered, and the role of topics in activating cognitive contexts is discussed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.111,
+            0.33,
+            0.43,
+            0.436
+          ],
+          "content": "The present paper sketches a general approach to some problems of comprehension and memory. Several studies are reported which employ an experimental paradigm that seems particularly adaptable to such problems and that has been useful in developing the point of view proposed here."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.435,
+            0.429,
+            0.695
+          ],
+          "content": "Probably the most well-developed approach to comprehension stems from theories based on transformational linguistics (e.g., Chomsky, 1957, 1965, 1968; Postal, 1964). Sentences are assumed to have both superficial and underlying (deep) structures. The surface structure characterizes the phonological shape of the sentence, but the deep structural information is presumed necessary for characterizing sentence meaning (see Katz & Postal, 1964). According to Katz & Postal (p. 12), the semantically interpreted deep structural relations underlying sentences constitute a full analysis of their cognitive meaning. Comprehension thus involves the recovery and interpretation of the abstract deep structural relations underlying sentences,"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.708,
+            0.426,
+            0.799
+          ],
+          "content": "$^{1}$  This research was supported in part by a Research Foundation of the State University of New York summer research fellowship to the second author. Senior authorship was decided by tossing a coin. We wish to thank Brian O'Callaghan, guidance counselor, and the students of Ward Melville High School, East Setauket, New York, for their cooperation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.441,
+            0.33,
+            0.765,
+            0.466
+          ],
+          "content": "and sentence memory involves retention of the deep structural but not necessarily the surface structural forms. Many studies have demonstrated the importance of deep structure in sentence perception and memory tasks (e.g., Bever, Lackner, & Kirk, 1969; Blumenthal, 1967, Blumenthal & Boakes, 1967; Perfetti, 1969; Rohrman, 1968; Sachs, 1967; Wanner, 1968)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.439,
+            0.466,
+            0.764,
+            0.707
+          ],
+          "content": "However, several lines of research support the notion that performance in comprehension and memory tasks has a broader base than simply the semantically interpreted deep structural relations underlying linguistic inputs. Kintsch (1972), for example, has shown that Ss often know more than a sentence specifies directly. The results of experiments by Bransford and Franks (1971), Bransford, Barclay, and Franks (1972) and by Johnson, Bransford, & Solomon (in press) indicate that the information Ss use in a sentence memory task may originate from the integration of information from several related sentences and may include ideas not directly expressed in the acquisition materials."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.437,
+            0.707,
+            0.761,
+            0.799
+          ],
+          "content": "For example, Johnson, Bransford, and Solomon (in press) presented Ss with short passages like either (a) “The river was narrow. A beaver hit the log that a turtle was sitting beside and the log flipped over from the shock. The turtle was very surprised by the event”"
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.109,
+            0.81,
+            0.338,
+            0.83
+          ],
+          "content": "Copyright © 1972 by Academic Press, Inc.\nAll rights of reproduction in any form reserved."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.419,
+            0.799,
+            0.445,
+            0.811
+          ],
+          "content": "717"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.078,
+            0.053,
+            0.107,
+            0.067
+          ],
+          "content": "718"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.313,
+            0.055,
+            0.494,
+            0.069
+          ],
+          "content": "BRANSFORD AND JOHNSON"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.082,
+            0.395,
+            0.354
+          ],
+          "content": "or (b) “The river was narrow. A beaver hit the log that a turtle was sitting on and the log flipped over from the shock. The turtle was very surprised by the event.” After acquisition, the Ss were read a list of recognition sentences and asked to indicate which sentences they had actually heard during the acquisition task. Those Ss hearing passage (b) were much more likely to think they had heard the novel sentence, “A beaver hit the log and knocked the turtle into the water,” than those hearing passage (a). The Ss’ understanding of the acquisition sentences apparently involved a realization of the probable consequences of the situations suggested by the input sentences; Ss frequently thought they had heard information which could only have been inferred."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.353,
+            0.396,
+            0.627
+          ],
+          "content": "The experiments mentioned above lend considerable support to the idea that Ss do not simply interpret and store the meanings of sentences per se. Rather, Ss create semantic products that are a joint function of input information and prior knowledge. The present paper focuses directly on the role played by prior knowledge in comprehension. Its purpose is to show that not only is prior knowledge reflected in the S's performance in tasks involving the comprehension of linguistic information, but that certain knowledge may be necessary for the meaningful processing of the information in the first place. In the experiments presented below, the availability of prior knowledge is manipulated in order to assess its influence on Ss' ability to comprehend and remember linguistic materials."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.181,
+            0.647,
+            0.284,
+            0.662
+          ],
+          "level": 2,
+          "content": "EXPERIMENT I"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.669,
+            0.394,
+            0.793
+          ],
+          "content": "The information presented to the Ss consisted of a passage in which the sentences followed rules of normal English construction and the vocabulary items were used in non-metaphorical ways. The prediction tested was that Ss who received the appropriate prerequisite knowledge would be able to comprehend the passage quite easily, and hence would"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.405,
+            0.083,
+            0.731,
+            0.251
+          ],
+          "continues_prev": true,
+          "content": "subsequently be able to recall it relatively well. On the other hand, Ss who did not have access to the appropriate knowledge should find the passage difficult to understand and recall. The prerequisite knowledge was in the form of a picture that provided information about the context underlying the stimulus passage. The passage did not simply describe the contextual picture, but instead described various events that could happen given the context as a conceptual base."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.407,
+            0.267,
+            0.47,
+            0.283
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.405,
+            0.285,
+            0.728,
+            0.34
+          ],
+          "content": "The experiment consisted of an acquisition phase, followed by two tasks—comprehension rating and recall. There were five independent groups of Ss with 10 Ss per group. In addition to the No Context (1) Ss"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.415,
+            0.348,
+            0.718,
+            0.77
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.404,
+                0.777,
+                0.724,
+                0.794
+              ],
+              "content": "FIG. 1. Appropriate context picture for Experiment I."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_1_image_9.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.755,
+            0.078,
+            0.956,
+            0.371
+          ],
+          "continues_prev": true,
+          "content": "(who simply heard the passage) and Ss (who saw the appropriate co they heard the passage), there were of Ss. Context After Ss first heard saw the appropriate picture. Since contextual information is necess process of comprehension, the C expected to assign lower compress recall less than the Context Before Ss were shown a picture before presented. The partial context pie the objects represented in the picture, but the objects were assumed that the availability of ations of the objects would be Context and Context Before g comprehension and recall perfor group were expected to be low among the objects in the partial stituted an inappropriate con passage. Finally, No Context (2 twice. This group was included repetitions in the absence of cor"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.299,
+            0.053,
+            0.547,
+            0.066
+          ],
+          "content": "PREREQUISITES FOR UNDERSTANDING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.721,
+            0.053,
+            0.751,
+            0.067
+          ],
+          "content": "719"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.08,
+            0.418,
+            0.372
+          ],
+          "content": "(who simply heard the passage) and the Context Before Ss (who saw the appropriate context picture before they heard the passage), there were three other groups of Ss. Context After Ss first heard the passage and then saw the appropriate picture. Since it was assumed that contextual information is necessary for the ongoing process of comprehension, the Context After Ss were expected to assign lower comprehension ratings and recall less than the Context Before Ss. Partial Context Ss were shown a picture before the passage was presented. The partial context picture contained all of the objects represented in the appropriate context picture, but the objects were rearranged. It was assumed that the availability of concrete representations of the objects would be equal for the Partial Context and Context Before groups. However, the comprehension and recall performances of the former group were expected to be lower since the relations among the objects in the partial context picture constituted an inappropriate conceptual base for the passage. Finally, No Context (2) Ss heard the passage twice. This group was included to assess the effects of repetitions in the absence of context."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.436,
+            0.081,
+            0.676,
+            0.094
+          ],
+          "content": "Materials. The passage was as follows:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.426,
+            0.09,
+            0.752,
+            0.271
+          ],
+          "content": "If the balloons popped, the sound wouldn't be able to carry since everything would be too far away from the correct floor. A closed window would also prevent the sound from carrying, since most buildings tend to be well insulated. Since the whole operation depends on a steady flow of electricity, a break in the middle of the wire would also cause problems. Of course, the fellow could shout, but the human voice is not loud enough to carry that far. An additional problem is that a string could break on the instrument. Then there could be no accompaniment to the message. It is clear that the best situation would involve less distance. Then there would be fewer potential problems. With face to face contact, the least number of things could go wrong."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.427,
+            0.27,
+            0.749,
+            0.296
+          ],
+          "content": "The appropriate- and partial-context pictures are shown in Figures 1 and 2, respectively."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.425,
+            0.295,
+            0.75,
+            0.373
+          ],
+          "content": "Procedure. The Ss assigned to a given condition were tested as a group in a single session. All Ss were told that they were going to hear a tape-recorded passage and were asked to attempt to comprehend and remember it. They were informed that they would later be asked to recall the passage as accurately as"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.241,
+            0.394,
+            0.596,
+            0.769
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.271,
+                0.776,
+                0.565,
+                0.793
+              ],
+              "content": "FIG. 2. Partial context picture for Experiment I."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_2_image_7.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.764,
+            0.078,
+            0.799,
+            0.79
+          ],
+          "content": "sin\nto\nex\nide\npa\nCc\nto\nide\nthe\npa\nme\n(\nBe\nset\npic\nto\nsug\nrec\npre\nTh\nthe\npa\nof\npa\npri\nthe\nrel\npre\nsug\nabl\nco\npro\nthe\nau;\nha\nOn\nno\nPil\ninc\nBe\nwit\n(\nCo\ntra\nCo\nTe\nLe;"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.088,
+            0.049,
+            0.119,
+            0.063
+          ],
+          "content": "720"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.325,
+            0.051,
+            0.505,
+            0.065
+          ],
+          "content": "BRANSFORD AND JOHNSON"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.078,
+            0.405,
+            0.294
+          ],
+          "continues_prev": true,
+          "content": "they could. The Context Before and Partial Context Ss were given 30 seconds to inspect their respective pictures before the start of the recorded passage. The No Context (2) group heard the same recording twice. After acquisition, there was a 2-minute delay before Ss rated the passage. During this interval, Ss received recall sheets, Context After Ss were allowed 30 sec. to inspect the appropriate picture, and instructions about how to use the comprehension scale were given. A seven-point scale was used, with 1 indicating the passage was very difficult to comprehend, 4 indicating moderate, and 7 indicating very easy. Immediately after the rating task, Ss were asked to recall the passage as accurately as they could and were told that if they could not remember it word for word, they should write down as many ideas as possible. Seven minutes were allowed for recall."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.292,
+            0.402,
+            0.332
+          ],
+          "content": "Subjects. The Ss were 50 male and female high school students who volunteered to participate in the experiment."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.344,
+            0.139,
+            0.36
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.362,
+            0.401,
+            0.636
+          ],
+          "content": "We have adopted the following standard procedure for scoring recall protocols of sentence materials or prose passages: Idea units are designated a priori and correspond either to individual sentences, basic semantic propositions, or phrases. Maximum possible scores for the materials used in Experiments I–IV are given in the appropriate tables. The protocols, which cannot be identified as to condition, are scored independently by two judges against the list of idea units. Paraphrases are allowed. Interjudge reliability for materials such as those used in the present experiments ranges from .91 to .99. Any differences in the assignment of scores to Ss are resolved by a third judge. These adjusted scores are then used in the final analysis of the data."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.413,
+            0.078,
+            0.741,
+            0.397
+          ],
+          "content": "The mean comprehension rating and the mean number of ideas recalled for each group in Experiment I are given in Table 1. For both comprehension and recall scores, Dunnett's test was used to compare the Context Before condition with each of the other four conditions. The comprehension ratings were higher in the Context Before condition than in each of the other four conditions; all values of $d(5, 45) \\geqslant 4.19$, $p < .005$. The Ss in the Context Before condition also recalled a greater number of ideas than Ss in each of the other four conditions; all values of $d(5, 45) \\geqslant 4.12$, $p < .005$. An inspection of the data in Table 1 suggests that, relative to the No Context (1) condition, hearing the passage twice, receiving the context after or receiving the partial context before, increased comprehension ratings somewhat. Relative to the No Context (1) condition, these manipulations had little effect on recall scores."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.415,
+            0.417,
+            0.494,
+            0.433
+          ],
+          "level": 2,
+          "content": "Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.41,
+            0.44,
+            0.735,
+            0.577
+          ],
+          "content": "The presentation of the appropriate semantic context had a marked effect on both comprehension ratings and recall. All Ss presumably knew the lexical meanings of the words and were familiar with the sentence structures used in the passage. Comprehension ratings and recall were relatively low, however, when Ss did not receive the appropriate context before they heard the passage."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.409,
+            0.576,
+            0.733,
+            0.639
+          ],
+          "content": "The large difference in recall between the Context Before and the No Context (1) groups could be due to various factors. For example, knowledge of the appropriate context could"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.076,
+            0.687,
+            0.726,
+            0.772
+          ],
+          "content": "|  | No context (1) | No context (2) | Context after | Partial context | Context before | Maximum score |\n| --- | --- | --- | --- | --- | --- | --- |\n| Comprehension | $2.30 (.30)^a$ | 3.60 (.27) | 3.30 (.45) | 3.70 (.56) | 6.10 (.38) | 7 |\n| Recall | 3.60 (.64) | 3.80 (.79) | 3.60 (.75) | 4.00 (.60) | 8.00 (.65) | 14 |",
+          "captions": [
+            {
+              "bbox": [
+                0.369,
+                0.648,
+                0.437,
+                0.662
+              ],
+              "content": "TABLE 1"
+            },
+            {
+              "bbox": [
+                0.145,
+                0.667,
+                0.662,
+                0.683
+              ],
+              "content": "MEAN COMPREHENSION RATINGS AND MEAN NUMBER OF IDEAS RECALLED, EXPERIMENT I"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.088,
+                0.775,
+                0.279,
+                0.79
+              ],
+              "content": "$^{a}$  Standard error in parentheses."
+            }
+          ],
+          "image_source": "images/page_3_table_13.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.306,
+            0.052,
+            0.554,
+            0.065
+          ],
+          "content": "PREREQUISITES FOR UNDERSTANDING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.726,
+            0.052,
+            0.752,
+            0.066
+          ],
+          "content": "721"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.079,
+            0.422,
+            0.246
+          ],
+          "continues_prev": true,
+          "content": "simply provide information that allowed Ss to generate (at recall) ideas based on pre-experimental experiences, and many of these ideas could have overlapped with those in the passage. If this were an important factor, the Context After Ss should also have been able to augment recall by guessing or generating ideas from the picture. Providing the Ss with the appropriate context after they heard the passage did not, however, produce an increment in recall."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.245,
+            0.422,
+            0.699
+          ],
+          "content": "One might also argue that the Context Before group benefited from a more available set of retrieval cues (i.e., the elements of the picture—balloons, wire, window, etc.) relative to the No Context group. There are data to suggest that retrieval cues are important for recall and that it is important that these cues be present at input (e.g., Tulving & Osler, 1968). The elements of the picture were available to the Partial Context Ss before they heard the passage, yet their recall was far below that of the Context Before group. What the partial context picture lacked was the appropriate information about the relations among the concrete elements. Understanding the relations in the appropriate context was a prerequisite for understanding the events suggested by the passage. Although considerable research is needed to assess the relative contributions of comprehension versus retrieval processes to remembering, it seems clear that there is little reason to expect retrieval cues to augment recall for prose appreciably if Ss have not understood the meaning of a passage. On the other hand, comprehension per se does not necessarily guarantee subsequent recall. Pilot studies using the passage in Experiment I indicate that recall scores for the Context Before Ss can be increased by supplying them with key words as retrieval cues."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.698,
+            0.423,
+            0.791
+          ],
+          "content": "The comparison of the No Context (2) and Context Before groups can be viewed as a transfer of training design, where the No Context (2) group receives Learn A, Learn A, Test A and the Context Before group receives Learn B, Learn A, Test A where Learn B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.431,
+            0.08,
+            0.756,
+            0.186
+          ],
+          "continues_prev": true,
+          "content": "represents time taken to study the prerequisite context. For Ss in the present experiment, it was more beneficial to transfer from B to A than it was to spend time trying to learn A. Generally, this should be the case if the context in question is truly a prerequisite for comprehension."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.431,
+            0.185,
+            0.757,
+            0.398
+          ],
+          "content": "The finding that neither Context After, nor Partial Context, nor No Context (2) groups showed augmented recall relative to No Context (1) Ss was somewhat surprising, although these groups were expected to be clearly inferior to the Context Before group. Eventually, it will be important to characterize those situations under which these types of treatments will benefit the Ss' performance. For present purposes, however, the major points are the clear advantage of the Context Before group and the resulting picture of the comprehension process that is supported by the general pattern of the results."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.432,
+            0.397,
+            0.757,
+            0.669
+          ],
+          "content": "In Experiment I, it was very unlikely that the appropriate prerequisite context was (in all its details) part of the preexperimental knowledge of the Ss. If one generally characterizes comprehension as a process requiring appropriate semantic contexts, then the conditions under which existing structures become activated are extremely important. If a passage does not provide sufficient cues about its appropriate semantic context, the S is in a problem-solving situation in which he must find a suitable organization of his store of previous knowledge. Experiments II, III, and IV involve materials for which the appropriate contexts should be part of the preexperimental knowledge of most Ss. Some Ss are given a cue (a topic for the passage) that should help activate a suitable context."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.433,
+            0.669,
+            0.758,
+            0.792
+          ],
+          "content": "It should be noted that the experiments to follow are similar to a set of studies that became available in the literature at the time the present paper was being written: Dooling and Lachman (1971) found that providing the topic of a passage affected subsequent recall. The present studies are included here, however, because (a) the passages used are"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.092,
+            0.05,
+            0.121,
+            0.065
+          ],
+          "content": "722"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.328,
+            0.052,
+            0.508,
+            0.065
+          ],
+          "content": "BRANSFORD AND JOHNSON"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.079,
+            0.411,
+            0.216
+          ],
+          "continues_prev": true,
+          "content": "relatively straightforward linguistic descriptions whereas those used by Dooling and Lachman were explicitly metaphorical; and (b) the present studies include conditions where Ss receive knowledge of the topic after hearing the passage in order to determine whether recall increments are simply due to Ss' abilities to generate probable statements about familiar topics."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.155,
+            0.244,
+            0.358,
+            0.26
+          ],
+          "level": 2,
+          "content": "EXPERIMENTS II, III, AND IV"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.267,
+            0.409,
+            0.33
+          ],
+          "content": "The results of Experiments II, III, and IV will be presented and discussed after the procedures have been described since the three studies were similar in design."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.339,
+            0.151,
+            0.354
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.358,
+            0.409,
+            0.548
+          ],
+          "content": "These experiments were similar to Experiment I in that the acquisition phase, consisting of a single auditory presentation of the materials, was followed by comprehension rating and recall tasks. The rating scale was the same as that used in Experiment I. The conditions in each of the studies were as follows. Experiment II: A No Topic group (17 Ss) heard a passage and received no additional information; a Topic After group (17 Ss) received the topic of the passage after acquisition and prior to the rating and recall tasks; a Topic Before group (18 Ss) received the topic prior to the presentation of the passage. Experiment III: Topic After (10 Ss) and Topic Before (11 Ss) conditions. Experiment IV: No Topic (9 Ss), Topic After (11 Ss), and Topic Before (11 Ss) conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.547,
+            0.408,
+            0.625
+          ],
+          "content": "Materials. Materials for Experiments II and III consisted of passages A and B, respectively. Passage B is a slightly longer version of Passage A. Experiments II and III were conducted under different conditions and no comparisons of Ss' performance on Passages A and B were planned or conducted."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.633,
+            0.158,
+            0.647
+          ],
+          "level": 2,
+          "content": "Passage A:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.649,
+            0.408,
+            0.791
+          ],
+          "content": "The procedure is actually quite simple. First you arrange things into different groups depending on their makeup. Of course, one pile may be sufficient depending on how much there is to do. If you have to go somewhere else due to lack of facilities that is the next step, otherwise you are pretty well set. It is important not to overdo any particular endeavor. That is, it is better to do too few things at once than too many. In the short run this may not seem important, but complications from doing too many can easily arise. A mistake can be expensive as well. The mani-"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.421,
+            0.079,
+            0.745,
+            0.169
+          ],
+          "continues_prev": true,
+          "content": "pulation of the appropriate mechanisms should be self-explanatory, and we need not dwell on it here. At first the whole procedure will seem complicated. Soon, however, it will become just another facet of life. It is difficult to foresee any end to the necessity for this task in the immediate future, but then one never can tell."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.421,
+            0.181,
+            0.492,
+            0.195
+          ],
+          "level": 2,
+          "content": "Passage B:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.419,
+            0.197,
+            0.744,
+            0.438
+          ],
+          "content": "The procedure is actually quite simple. First you arrange things into different groups. Of course, one pile may be sufficient depending on how much there is to do. If you have to go somewhere else due to lack of facilities that is the next step, otherwise you are pretty well set. It is important not to overdo things. That is, it is better to do too few things at once than too many. In the short run this may not seem important but complications can easily arise. A mistake can be expensive as well. At first the whole procedure will seem complicated. Soon, however, it will become just another facet of life. It is difficult to foresee any end to the necessity for this task in the immediate future, but then one never can tell. After the procedure is completed one arranges the materials into different groups again. Then they can be put into their appropriate places. Eventually they will be used once more and the whole cycle will then have to be repeated. However, that is part of life."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.419,
+            0.437,
+            0.742,
+            0.501
+          ],
+          "content": "The materials used in Experiment IV were less like a paragraph than those used in Experiments I–III and the sentences were presented as sentences, rather than in paragraph form. In order of presentation, the sentences were:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.419,
+            0.5,
+            0.742,
+            0.651
+          ],
+          "content": "A newspaper is better than a magazine/ A seashore is a better place than the street/ At first it is better to run than to walk/ You may have to try several times/ It takes some skill but it's easy to learn/ Even young children can enjoy it/ Once successful, complications are minimal/ Birds seldom get too close/ Rain, however, soaks in very fast/ Too many people doing the same thing can also cause problems/ One needs lots of room/ If there are no complications, it can be very peaceful/ A rock will serve as an anchor/ If things break loose from it, however, you will not get a second chance/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.418,
+            0.65,
+            0.742,
+            0.793
+          ],
+          "content": "Experiment II procedure. All Ss were tested simultaneously. Assignment of Ss to conditions was made by randomizing the instruction sheets in blocks of the three experimental treatments and passing the resulting stack of booklets out in normal classroom fashion. The written instructions told the Ss to listen carefully to the passage that E would read to them and that they would later be asked to recall it as accurately as possible. The instruction sheet for the Topic Before Ss included the additional sentence, \"The paragraph you will hear will be about washing clothes.\" Immediately"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.746,
+            0.117,
+            0.755,
+            0.13
+          ],
+          "content": "i"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.746,
+            0.144,
+            0.758,
+            0.157
+          ],
+          "content": "."
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.746,
+            0.233,
+            0.759,
+            0.246
+          ],
+          "content": "4"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.748,
+            0.325,
+            0.76,
+            0.338
+          ],
+          "content": "\\*"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.744,
+            0.412,
+            0.759,
+            0.427
+          ],
+          "content": "A"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.769,
+            0.323,
+            0.852,
+            0.451
+          ],
+          "content": "Experiment taneously wi Experiment I acquisition in rating instru After groups kite.\" The se 2-second into the beginning recall."
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.747,
+            0.531,
+            0.761,
+            0.543
+          ],
+          "content": "1"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.773,
+            0.573,
+            0.854,
+            0.6
+          ],
+          "content": "Comprehens Recall"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.786,
+            0.61,
+            0.854,
+            0.624
+          ],
+          "content": "$^{a}$  Standard"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.747,
+            0.62,
+            0.759,
+            0.633
+          ],
+          "content": "[NO TEXT]"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.749,
+            0.71,
+            0.759,
+            0.723
+          ],
+          "content": "[Unreadable]"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.29,
+            0.058,
+            0.539,
+            0.072
+          ],
+          "content": "PREREQUISITES FOR UNDERSTANDING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.712,
+            0.058,
+            0.741,
+            0.073
+          ],
+          "content": "723"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.085,
+            0.408,
+            0.186
+          ],
+          "continues_prev": true,
+          "content": "after the passage was read, Ss opened their comprehension rating instructions. For the Context After Ss, these instructions included the sentence, \"It may help you to know that the paragraph was about washing clothes.\" Approximately 2 minutes after the end of acquisition, Ss were reminded to recall as accurately as possible and instructed to write down at least the essential ideas. Five minutes were allowed for recall."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.185,
+            0.406,
+            0.325
+          ],
+          "content": "Experiment III procedure. The Ss were tested in groups corresponding to the two conditions. Both groups heard the same tape recording of Passage B. All instructions and the topic (again, “washing clothes”) were given verbally by E. Acquisition instructions informed Ss that they would later be asked to recall all the essential ideas of the passage. There was a 1-minute interval between the end of acquisition and the comprehension rating and a 1-minute interval between the rating and recall tasks. Six minutes were allowed for recall."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.324,
+            0.406,
+            0.451
+          ],
+          "content": "Experiment IV procedure. All Ss were tested simultaneously with a procedure similar to that used in Experiment II. The topic (which was presented on the acquisition instruction sheet and on the comprehension rating instruction sheet for Topic Before and Topic After groups, respectively) was “making and flying a kite.” The sentences were read by E and there was a 2-second interval between the end of one sentence and the beginning of the next. Six minutes were allowed for recall."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.418,
+            0.086,
+            0.742,
+            0.151
+          ],
+          "content": "Subjects. In Experiment II the Ss were 52 male and female students enrolled in a course in human learning at the State University of New York, Stony Brook. The Ss for Experiments III (N = 21) and IV (N = 31) were male and female high school student volunteers."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.42,
+            0.16,
+            0.476,
+            0.175
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.418,
+            0.18,
+            0.741,
+            0.24
+          ],
+          "content": "Mean comprehension ratings and mean recall scores for conditions in Experiments II and III are presented in Table 2 and those for Experiment IV are presented in Table 3."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.415,
+            0.24,
+            0.74,
+            0.362
+          ],
+          "content": "Experiment II. Comprehension ratings were higher in the Topic Before condition than in either the No Topic or the Topic After conditions, Dunnett's test (3, 49) = 4.46 and 4.80, p < .005, respectively. Likewise, recall was greater in the Topic Before condition than in the No Topic or Topic After conditions,  $d(3, 49) = 3.97$  and 4.20, p < .005, respectively."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.416,
+            0.362,
+            0.74,
+            0.452
+          ],
+          "content": "Experiment III. Both comprehension ratings and recall scores were higher in the Topic Before condition than in the Topic After condition: the Fs (1, 19) were 12.24 for comprehension and 20.03 for recall, p < .005 in both cases."
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.084,
+            0.503,
+            0.735,
+            0.609
+          ],
+          "content": "<table><tr><td rowspan=\"2\"></td><td colspan=\"4\">Experiment II</td><td colspan=\"3\">Experiment III</td></tr><tr><td>No topic</td><td>Topic after</td><td>Topic before</td><td>Maximum score</td><td>Topic after</td><td>Topic before</td><td>Maximum score</td></tr><tr><td>Comprehension</td><td> $2.29 (.22)^a$ </td><td>2.12 (.26)</td><td>4.50 (.49)</td><td>7</td><td>3.40 (.48)</td><td>5.27 (.27)</td><td>7</td></tr><tr><td>Recall</td><td>2.82 (.60)</td><td>2.65 (.53)</td><td>5.83 (.49)</td><td>18</td><td>3.30 (.66)</td><td>7.00 (.43)</td><td>20</td></tr></table>",
+          "captions": [
+            {
+              "bbox": [
+                0.378,
+                0.464,
+                0.446,
+                0.478
+              ],
+              "content": "TABLE 2"
+            },
+            {
+              "bbox": [
+                0.194,
+                0.482,
+                0.628,
+                0.498
+              ],
+              "content": "MEAN COMPREHENSION RATINGS AND MEAN NUMBER OF IDEAS RECALLED"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.098,
+                0.611,
+                0.288,
+                0.626
+              ],
+              "content": "$^{a}$  Standard error in parentheses."
+            }
+          ],
+          "image_source": "images/page_6_table_12.jpg"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.085,
+            0.695,
+            0.734,
+            0.781
+          ],
+          "content": "|  | No topic | Topic after | Topic before | Maximum score |\n| --- | --- | --- | --- | --- |\n| Comprehension | $2.44 (.47)^a$ | 3.82 (.52) | 4.00 (.59) | 7 |\n| Recall | 3.22 (.55) | 3.18 (.57) | 5.54 (.76) | 14 |",
+          "captions": [
+            {
+              "bbox": [
+                0.382,
+                0.644,
+                0.437,
+                0.658
+              ],
+              "content": "TABLE 3"
+            },
+            {
+              "bbox": [
+                0.191,
+                0.662,
+                0.628,
+                0.69
+              ],
+              "content": "MEAN COMPREHENSION RATINGS AND MEAN NUMBER OF IDEAS RECALLED, EXPERIMENT IV"
+            }
+          ],
+          "footnotes": [
+            {
+              "bbox": [
+                0.183,
+                0.783,
+                0.375,
+                0.798
+              ],
+              "content": "$^{a}$  Standard error in parentheses."
+            }
+          ],
+          "image_source": "images/page_6_table_16.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.087,
+            0.056,
+            0.116,
+            0.07
+          ],
+          "content": "724"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.322,
+            0.057,
+            0.502,
+            0.07
+          ],
+          "content": "BRANSFORD AND JOHNSON"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.085,
+            0.406,
+            0.238
+          ],
+          "content": "Experiment IV. In the analysis of the comprehension ratings, the Topic Before scores were higher than the No Topic scores,  $d(3, 28) = 2.01$ , p < .05. However, there was no significant difference between ratings of the Topic Before and Topic After Ss, p > .05. Recall of the Topic Before Ss was superior to that of both No Topic and of Topic After Ss,  $d(3, 28) = 2.49$  and 2.68, p < .05, respectively."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.202,
+            0.259,
+            0.287,
+            0.273
+          ],
+          "level": 2,
+          "content": "DISCUSSION"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.28,
+            0.405,
+            0.493
+          ],
+          "content": "The results of Experiments II, III, and IV indicate that prior knowledge of a situation does not guarantee its usefulness for comprehension. In order for prior knowledge to aid comprehension, it must become an activated semantic context. As in Experiment I, it appears that for maximum benefit the appropriate information must be present during the ongoing process of comprehension. Comprehension and recall scores of the Topic After groups were generally much lower than those of the Topic Before groups. In short, the effect of topic in Experiments II, III, and IV was similar to that of context in Experiment I."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.492,
+            0.405,
+            0.797
+          ],
+          "content": "Lachman and his associates (Pompi & Lachman, 1967; Dooling & Lachman, 1971) suggested that knowledge of the topic facilitates retention by functioning as a mnemonic device. In recognition, Ss score higher on theme-related words because they match test words to the theme. In recall, a reconstructive process (with the theme as the mediating schema) is emphasized. The present writers view the role of the topic as something more than a schema for generating lexical matches or associations, however. Its critical role appears to be in helping Ss create contexts that can be used to comprehend the passages in the first place. At least in the present experiments, Topic After groups were at a considerable disadvantage relative to Topic Before groups. Most importantly, knowledge of the topic of a passage may be neither necessary nor sufficient for optimal compre-"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.415,
+            0.084,
+            0.741,
+            0.463
+          ],
+          "continues_prev": true,
+          "content": "hension. Note, for example, that the context supplied in Experiment I did not contain information about the topic of the stimulus passage. The topic would be something like \"Possible breakdowns in communication during a serenade.\" The picture simply supplied information about a basic situation that could have been developed in many different directions. The stimulus passage discussed just one of the many possible sets of events that could have taken place. The picture greatly improved comprehension and recall scores, despite the fact that Ss in the Context Before group had no more explicit prior information about the topic than Ss in the other groups. Moreover, knowledge of the topic alone is not sufficient for optical comprehension of the passage in Experiment I. Pilot studies indicate that Ss receiving the topic of this passage before hearing it were still clearly inferior to Context Before Ss. The topic \"possible breakdowns in communication during a serenade\" is not sufficient to suggest the kind of contextual information communicated by the appropriate context picture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.414,
+            0.462,
+            0.738,
+            0.704
+          ],
+          "content": "It is interesting that in all the experiments, the absence of an appropriate semantic context seemed to have an effect on memory that is similar to that found when Ss are led to focus on nonsemantic aspects of linguistic inputs. For example, attention to the orthographic properties of sentences or words (rather than attention to their semantic features) causes a considerable decrement in recall (Bobrow & Bower, 1969; Hyde & Jenkins, 1969). In the present experiments all Ss presumably tried to process the information semantically, yet attention to semantic properties alone will not guarantee the availability of an adequate context for comprehension of prose."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.414,
+            0.703,
+            0.738,
+            0.795
+          ],
+          "content": "Additional evidence that contexts are important for processing incoming information is that many of the Ss in the present experiments who were not provided with the context or topic prior to hearing the passage reported that they actively searched for a"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.769,
+            0.58,
+            0.849,
+            0.796
+          ],
+          "content": "ARNHEIM, R\nCalifor\nAUSUBEL, I\nview. N\nInc., 19\nBARTLETT, F\nUniver\nBEVER, T. G\nlying st\nof imm\nPsycho,\nBLUMENTHA\nof Verl\n203–20\nBLUMENTHA\nsentenc\nLearnin"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.761,
+            0.084,
+            0.847,
+            0.543
+          ],
+          "continues_prev": true,
+          "content": "situation generally for unders they could extent to a problem stances. M allow one are sufficiently in iso additional by percep context, ir\nThe not may be p tion, or t perception discussed heim, 197 Gombrich 1971). Alt to provide these view processes prehendin results do tic context of context strategy f prior know"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.312,
+            0.058,
+            0.558,
+            0.071
+          ],
+          "content": "PREREQUISITES FOR UNDERSTANDING"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.733,
+            0.056,
+            0.761,
+            0.07
+          ],
+          "content": "725"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.086,
+            0.428,
+            0.282
+          ],
+          "content": "situation that the passage might be about; generally they were unable to find one suitable for understanding the entire passage, although they could make parts of it make sense. The extent to which context availability becomes a problem will certainly vary with the circumstances. Many sentences provide cues that allow one to create contextual structures that are sufficient for processing sentences seemingly in isolation. In other cases one will need additional information, such as that built up by perceptual context or previous linguistic context, in order to comprehend."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.282,
+            0.428,
+            0.541
+          ],
+          "content": "The notions that certain cognitive structures may be prerequisites for knowledge acquisition, or that such structures may influence perception and recall, have, of course, been discussed by many investigators (e.g., Arnheim, 1971; Ausubel, 1960; Bartlett, 1932; Gombrich, 1961, Piaget, 1950; and Winograd, 1971). Although at present it is not possible to provide a precise statement synthesizing these views and specifying mechanisms and processes operating during the acts of comprehending and remembering, the present results do emphasize the crucial role of semantic contexts. The experimental manipulation of context availability may constitute a useful strategy for investigating the interaction of prior knowledge and present input events."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.229,
+            0.56,
+            0.304,
+            0.574
+          ],
+          "level": 2,
+          "content": "REFERENCES"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.108,
+            0.581,
+            0.426,
+            0.606
+          ],
+          "content": "ARNHEIM, R. Visual thinking. Berkeley: University of California Press, 1971."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.108,
+            0.606,
+            0.425,
+            0.644
+          ],
+          "content": "AUSUBEL, D. P. Educational psychology: A cognitive view. New York: Holt, Rinehart and Winston, Inc., 1968."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.108,
+            0.644,
+            0.424,
+            0.669
+          ],
+          "content": "BARTLETT, F. C. Remembering. Cambridge: Cambridge University Press, 1932."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.108,
+            0.669,
+            0.425,
+            0.719
+          ],
+          "content": "BEVER, T. G., LACKNER, J. R., & KIRK, R. The underlying structures of sentences are the primary units of immediate speech processing. Perception and Psychophysics, 1969, 6, 225–234."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.108,
+            0.72,
+            0.425,
+            0.756
+          ],
+          "content": "BLUMENTHAL, A. Prompted recall of sentences. Journal of Verbal Learning and Verbal Behavior. 1967, 6, 203–206."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.107,
+            0.757,
+            0.425,
+            0.795
+          ],
+          "content": "BLUMENTHAL, A. & BOAKES, R. Prompted recall of sentences: A further study. Journal of Verbal Learning and Verbal Behavior, 1967, 6, 674–675."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.443,
+            0.086,
+            0.761,
+            0.124
+          ],
+          "content": "BOBROW, S. A., & BOWER, G. H. Comprehension and recall of sentences. Journal of Experimental Psychology, 1969, 80, 455–461."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.124,
+            0.761,
+            0.173
+          ],
+          "content": "BRANSFORD, J. D., BARCLAY, J. R., & FRANKS, J. J. Sentence memory: A constructive versus interpretive approach. Cognitive Psychology, 1972, 3, 193–209."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.175,
+            0.761,
+            0.212
+          ],
+          "content": "BRANSFORD, J. D., & FRANKS, J. J. The abstraction of linguistic ideas. Cognitive Psychology, 1971, 2, 331–350."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.213,
+            0.759,
+            0.237
+          ],
+          "content": "CHOMSKY, N. Syntactic structures. London: Mouton and Company, 1957."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.238,
+            0.759,
+            0.264
+          ],
+          "content": "CHOMSKY, N. Aspects of the theory of syntax. Cambridge: M.I.T. Press, 1965."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.264,
+            0.759,
+            0.289
+          ],
+          "content": "CHOMSKY, N. Language and mind. New York: Harcourt, Brace and World, 1968."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.289,
+            0.759,
+            0.326
+          ],
+          "content": "DOOLING, D. J., & LACHMAN, R. Effects of comprehension on retention of prose. Journal of Experimental Psychology, 1971, 88, 216–222."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.327,
+            0.759,
+            0.352
+          ],
+          "content": "GOMBRICH, E. H. Art and illusion, New York: Pantheon Books, 1961."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.353,
+            0.761,
+            0.415
+          ],
+          "content": "HYDE, T. S., & JENKINS, J. J. Differential effects of incidental tasks on the organization of recall of a list of highly associated words. Journal of Experimental Psychology, 1969, 82, 472-481."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.442,
+            0.416,
+            0.759,
+            0.455
+          ],
+          "content": "JOHNSON, M. K., BRANSFORD, J. D., & SOLOMON, S. Memory for tacit implications of sentences. Journal of Experimental Psychology, in press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.455,
+            0.76,
+            0.492
+          ],
+          "content": "KATZ, J. J., & POSTAL, P. M. An integrated theory of linguistic descriptions. Cambridge: M.I.T. Press, 1964."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.492,
+            0.759,
+            0.542
+          ],
+          "content": "KINTSCH, W. Notes on the structure of semantic memory. In E. Tulving and W. Donaldson (Eds.), Organization of memory. New York: Academic Press, 1972."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.543,
+            0.759,
+            0.592
+          ],
+          "content": "PERFETTI, C. R. Lexical density and phrase structure depth as variables in sentence retention. Journal of Verbal Learning and Verbal Behavior, 1969, 8, 719–724."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.593,
+            0.758,
+            0.618
+          ],
+          "content": "PIAGET, J. The psychology of intelligence. London: Routledge and Kegan Paul, Ltd., 1947."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.441,
+            0.619,
+            0.759,
+            0.668
+          ],
+          "content": "POMPI, K. F., & LACHMAN, R. Surrogate processes in the short-term retention of connected discourse. Journal of Experimental Psychology, 1967, 75, 143–150."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.44,
+            0.668,
+            0.758,
+            0.705
+          ],
+          "content": "POSTAL, P. M. Underlying and superficial linguistic structure. Harvard Educational Review, 1964, 34, 246–266."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.44,
+            0.706,
+            0.759,
+            0.755
+          ],
+          "content": "ROHRMAN, N. L. The role of syntactic structure in the recall of English nominalizations. Journal of Verbal Learning and Verbal Behavior, 1968, 7, 904–912."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.439,
+            0.756,
+            0.757,
+            0.794
+          ],
+          "content": "SACHS, J. Recognition memory for syntactic and semantic aspects of connected discourse. Perception and Psychophysics, 1967, 2, 437–422."
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.079,
+            0.054,
+            0.109,
+            0.068
+          ],
+          "content": "726"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.315,
+            0.056,
+            0.495,
+            0.07
+          ],
+          "content": "BRANSFORD AND JOHNSON"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.749,
+            0.061,
+            0.894,
+            0.074
+          ],
+          "content": "JOURNAL OF VERBAL LEA"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.08,
+            0.083,
+            0.397,
+            0.121
+          ],
+          "content": "TULVING, E., & OSLER, S. Effectiveness of retrieval cues in memory for words. Journal of Experimental Psychology, 1968, 77, 593–601."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.081,
+            0.121,
+            0.397,
+            0.172
+          ],
+          "content": "WANNER, H. E. On remembering, forgetting and understanding sentences: a study of the deep structure hypothesis. Unpublished doctoral dissertation. Harvard University, 1968."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.413,
+            0.084,
+            0.731,
+            0.137
+          ],
+          "content": "WINOGRAD, T. Procedures as a representation for data in a computer program for understanding natural language. Report No. MAC TR-84, Massachusetts Institute of Technology, Project MAC, 1971."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.412,
+            0.159,
+            0.573,
+            0.175
+          ],
+          "content": "(Received March 13, 1972)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.776,
+            0.125,
+            0.893,
+            0.142
+          ],
+          "content": "Information"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.81,
+            0.222,
+            0.893,
+            0.34
+          ],
+          "content": "Two linear paragraph by the paragraph Responses to than response remote pairs result is incon some subset chaining the"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.75,
+            0.359,
+            0.891,
+            0.65
+          ],
+          "content": "The classical e memory consists of slightly faded copi linked together by a disfavor among r chologists. Cogniti more receptive to E memories are the r tive process which input information, version of this in resemblance to the presented. Accord information is in organized settings asked a question at subjects must use reconstruct the Bartlett's words,"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.754,
+            0.66,
+            0.887,
+            0.776
+          ],
+          "content": "$^{1}$  This paper is base the Department of Psy partial fulfillment of t degree. The research was being supported b and was supported in Dr. Frank Restle. I am the continued support project."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.755,
+            0.774,
+            0.885,
+            0.801
+          ],
+          "content": "$^{2}$  Now at the Depar College, Hanover, N."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.754,
+            0.81,
+            0.885,
+            0.832
+          ],
+          "content": "Copyright © 1972 by Aca\nAll rights of reproduction"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.1.3"
+    },
+    "document": {
+      "created_at": "2003-09-09T00:00:00Z",
+      "modified_at": "2017-03-30T23:20:07-07:00",
+      "creator_application": "wPDF by wpCubed GmbH",
+      "producer_application": "WPTools",
+      "page_count": 10,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

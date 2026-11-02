@@ -1,0 +1,2687 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.45,
+            0.079
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27 DOI 10.1186/s41235-016-0031-6"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.612,
+            0.038,
+            0.909,
+            0.078
+          ],
+          "content": "Cognitive Research: Principles and Implications"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.113,
+            0.323,
+            0.132
+          ],
+          "content": "ORIGINA L AR TIC L E"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.772,
+            0.114,
+            0.901,
+            0.132
+          ],
+          "content": "Open Access"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.091,
+            0.151,
+            0.708,
+            0.216
+          ],
+          "level": 1,
+          "content": "Creating visual explanations improves learning"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.813,
+            0.14,
+            0.907,
+            0.169
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_5.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.225,
+            0.356,
+            0.244
+          ],
+          "content": "Eliza Bobek<sup>1\\*</sup> and Barbara Tversky<sup>2</sup>"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.102,
+            0.275,
+            0.175,
+            0.292
+          ],
+          "level": 2,
+          "content": "Abstract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.299,
+            0.89,
+            0.513
+          ],
+          "content": "Many topics in science are notoriously difficult for students to learn. Mechanisms and processes outside student experience present particular challenges. While instruction typically involves visualizations, students usually explain in words. Because visual explanations can show parts and processes of complex systems directly, creating them should have benefits beyond creating verbal explanations. We compared learning from creating visual or verbal explanations for two STEM domains, a mechanical system (bicycle pump) and a chemical system (bonding). Both kinds of explanations were analyzed for content and learning assess by a post-test. For the mechanical system, creating a visual explanation increased understanding particularly for participants of low spatial ability. For the chemical system, creating both visual and verbal explanations improved learning without new teaching. Creating a visual explanation was superior and benefitted participants of both high and low spatial ability. Visual explanations often included crucial yet invisible features. The greater effectiveness of visual explanations appears attributable to the checks they provide for completeness and coherence as well as to their roles as platforms for inference. The benefits should generalize to other domains like the social sciences, history, and archeology where important information can be visualized. Together, the findings provide support for the use of learner-generated visual explanations as a powerful learning tool."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.517,
+            0.839,
+            0.55
+          ],
+          "content": "Keywords: Learning, Visual communication, STEM, Spatial ability, Dynamic system, Diagrammatic reasoning, Structure, Process, Complex system"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.571,
+            0.191,
+            0.587
+          ],
+          "level": 2,
+          "content": "Significance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.587,
+            0.492,
+            0.802
+          ],
+          "content": "Uncovering cognitive principles for effective teaching and learning is a central application of cognitive psychology. Here we show: (1) creating explanations of STEM phenomena improves learning without additional teaching; and (2) creating visual explanations is superior to creating verbal ones. There are several notable differences between visual and verbal explanations; visual explanations map thought more directly than words and provide checks for completeness and coherence as well as a platform for inference, notably from structure to process. Extensions of the technique to other domains should be possible. Creating visual explanations is likely to enhance students’ spatial thinking skills, skills that are increasingly needed in the contemporary and future world."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.506,
+            0.572,
+            0.91,
+            0.847
+          ],
+          "content": "Dynamic systems such as those in science and engineering, but also in history, politics, and other domains, are notoriously difficult to learn (e.g. Chi, DeLeeuw, Chiu, & Lavancher, 1994; Hmelo-Silver & Pfeffer, 2004; Johnstone, 1991; Perkins & Grotzer, 2005). Mechanisms, processes, and behavior of complex systems present particular challenges. Learners must master not only the individual components of the system or process (structure) but also the interactions and mechanisms (function), which may be complex and frequently invisible. If the phenomena are macroscopic, sub-microscopic, or abstract, there is an additional level of difficulty. Although the teaching of STEM phenomena typically relies on visualizations, such as pictures, graphs, and diagrams, learning is typically revealed in words, both spoken and written. Visualizations have many advantages over verbal explanations for teaching; can creating visual explanations promote learning?"
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.091,
+            0.85,
+            0.43,
+            0.887
+          ],
+          "content": "\\* Correspondence: [Eliza\\_Bobek@uml.edu](mailto:Eliza_Bobek@uml.edu) <sup>1</sup>University of Massachusetts Lowell, Lowell, MA, USA Full list of author information is available at the end of the article"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.093,
+            0.896,
+            0.278,
+            0.926
+          ],
+          "content": "SpringerOpen"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.293,
+            0.895,
+            0.863,
+            0.939
+          ],
+          "content": "© The Author(s). 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made."
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.039,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 2 of 14"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.108,
+            0.193,
+            0.124
+          ],
+          "level": 2,
+          "content": "Background"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.124,
+            0.406,
+            0.139
+          ],
+          "level": 2,
+          "content": "Learning from visual representations in STEM"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.139,
+            0.493,
+            0.657
+          ],
+          "content": "Given the inherent challenges in teaching and learning complex or invisible processes in science, educators have developed ways of representing these processes to enable and enhance student understanding. External visual representations, including diagrams, photographs, illustrations, flow charts, and graphs, are often used in science to both illustrate and explain concepts (e.g., Hegarty, Carpenter, & Just, 1990; Mayer, 1989). Visualizations can directly represent many structural and behavioral properties. They also help to draw inferences (Larkin & Simon, 1987), find routes in maps (Levine, 1982), spot trends in graphs (Kessell & Tversky, 2011; Zacks & Tversky, 1999), imagine traffic flow or seasonal changes in light from architectural sketches (e.g. Tversky & Suwa, 2009), and determine the consequences of movements of gears and pulleys in mechanical systems (e.g. Hegarty & Just, 1993; Hegarty, Kriz, & Cate, 2003). The use of visual elements such as arrows is another benefit to learning with visualizations. Arrows are widely produced and comprehended as representing a range of kinds of forces as well as changes over time (e.g. Heiser & Tversky, 2002; Tversky, Heiser, MacKenzie, Lozano, & Morrison, 2007). Visualizations are thus readily able to depict the parts and configurations of systems; presenting the same content via language may be more difficult. Although words can describe spatial properties, because the correspondences of meaning to language are purely symbolic, comprehension and construction of mental representations from descriptions is far more effortful and error prone (e.g. Glenberg & Langston, 1992; Hegarty & Just, 1993; Larkin & Simon, 1987; Mayer, 1989). Given the differences in how visual and verbal information is processed, how learners draw inferences and construct understanding in these two modes warrants further investigation."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.67,
+            0.378,
+            0.685
+          ],
+          "level": 2,
+          "content": "Benefits of generating explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.686,
+            0.493,
+            0.931
+          ],
+          "content": "Learner-generated explanations of scientific phenomena may be an important learning strategy to consider beyond the utility of learning from a provided external visualization. Explanations convey information about concepts or processes with the goal of making clear and comprehensible an idea or set of ideas. Explanations may involve a variety of elements, such as the use of examples and analogies (Roscoe & Chi, 2007). When explaining something new, learners may have to think carefully about the relationships between elements in the process and prioritize the multitude of information available to them. Generating explanations may require learners to reorganize their mental models by allowing them to make and refine connections between and among elements and concepts. Explaining may also help learners metacognitively address their own knowledge gaps and misconceptions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.109,
+            0.91,
+            0.353
+          ],
+          "content": "Many studies have shown that learning is enhanced when students are actively engaged in creative, generative activities (e.g. Chi, 2009; Hall, Bailey, & Tillman, 1997). Generative activities have been shown to benefit comprehension of domains involving invisible components, including electric circuits (Johnson & Mayer, 2010) and the chemistry of detergents (Schwamborn, Mayer, Thillmann, Leopold, & Leutner, 2010). Wittrock’s (1990) generative theory stresses the importance of learners actively constructing and developing relationships. Generative activities require learners to select information and choose how to integrate and represent the information in a unified way. When learners make connections between pieces of information, knowledge, and experience, by generating headings, summaries, pictures, and analogies, deeper understanding develops."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.352,
+            0.91,
+            0.459
+          ],
+          "content": "The information learners draw upon to construct their explanations is likely important. For example, Ainsworth and Loizou (2003) found that asking participants to self-explain with a diagram resulted in greater learning than self-explaining from text. How might learners explain with physical mechanisms or materials with multi-modal information?"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.473,
+            0.757,
+            0.488
+          ],
+          "level": 2,
+          "content": "Generating visual explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.488,
+            0.911,
+            0.807
+          ],
+          "content": "Learner-generated visualizations have been explored in several domains. Gobert and Clement (1999) investigated the effectiveness of student-generated diagrams versus student-generated summaries on understanding plate tectonics after reading an expository text. Students who generated diagrams scored significantly higher on a post-test measuring spatial and causal/dynamic content, even though the diagrams contained less domain-related information. Hall et al. (1997) showed that learners who generated their own illustrations from text performed equally as well as learners provided with text and illustrations. Both groups outperformed learners only provided with text. In a study concerning the law of conservation of energy, participants who generated drawings scored higher on a post-test than participants who wrote their own narrative of the process (Edens & Potter, 2003). In addition, the quality and number of concept units present in the drawing/science log correlated with performance on the post-test. Van Meter (2001) found that drawing while reading a text about Newton’s Laws was more effective than answering prompts in writing."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.807,
+            0.911,
+            0.93
+          ],
+          "content": "One aspect to explore is whether visual and verbal productions contain different types of information. Learning advantages for the generation of visualizations could be attributed to learners’ translating across modalities, from a verbal format into a visual format. Translating verbal information from the text into a visual explanation may promote deeper processing of the material and more complete and comprehensive mental"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.532,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 3 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.109,
+            0.493,
+            0.337
+          ],
+          "continues_prev": true,
+          "content": "models (Craik & Lockhart, 1972). Ainsworth and Iacovides (2005) addressed this issue by asking two groups of learners to self-explain while learning about the circulatory system of the human body. Learners given diagrams were asked to self-explain in writing and learners given text were asked to explain using a diagram. The results showed no overall differences in learning outcomes, however the learners provided text included significantly more information in their diagrams than the other group. Aleven and Koedinger (2002) argue that explanations are most helpful if they can integrate visual and verbal information. Translating across modalities may serve this purpose, although translating is not necessarily an easy task (Ainsworth, Bibby, & Wood, 2002)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.336,
+            0.493,
+            0.673
+          ],
+          "content": "It is important to remember that not all studies have found advantages to generating explanations. Wilkin (1997) found that directions to self-explain using a diagram hindered understanding in examples in physical motion when students were presented with text and instructed to draw a diagram. She argues that the diagrams encouraged learners to connect familiar but unrelated knowledge. In particular, “low benefit learners” in her study inappropriately used spatial adjacency and location to connect parts of diagrams, instead of the particular properties of those parts. Wilkin argues that these learners are novices and that experts may not make the same mistake since they have the skills to analyze features of a diagram according to their relevant properties. She also argues that the benefits of self-explaining are highest when the learning activity is constrained so that learners are limited in their possible interpretations. Other studies that have not found a learning advantage from generating drawings have in common an absence of support for the learner (Alesandrini, 1981; Leutner, Leopold, & Sumfleth, 2009). Another mediating factor may be the learner’s spatial ability."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.685,
+            0.295,
+            0.701
+          ],
+          "level": 2,
+          "content": "The role of spatial ability"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.701,
+            0.493,
+            0.931
+          ],
+          "content": "Spatial thinking involves objects, their size, location, shape, their relation to one another, and how and where they move through space. How then, might learners with different levels of spatial ability gain structural and functional understanding in science and how might this ability affect the utility of learner-generated visual explanations? Several lines of research have sought to explore the role of spatial ability in learning science. Kozhevnikov, Hegarty, and Mayer (2002) found that low spatial ability participants interpreted graphs as pictures, whereas high spatial ability participants were able to construct more schematic images and manipulate them spatially. Hegarty and Just (1993) found that the ability to mentally animate mechanical systems correlated with spatial ability, but not verbal ability. In their study, low spatial ability participants made"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.109,
+            0.911,
+            0.323
+          ],
+          "continues_prev": true,
+          "content": "more errors in movement verification tasks. Leutner et al. (2009) found no effect of spatial ability on the effectiveness of drawing compared to mentally imagining text content. Mayer and Sims (1994) found that spatial ability played a role in participants’ ability to integrate visual and verbal information presented in an animation. The authors argue that their results can be interpreted within the context of dual-coding theory. They suggest that low spatial ability participants must devote large amounts of cognitive effort into building a visual representation of the system. High spatial ability participants, on the other hand, are more able to allocate sufficient cognitive resources to building referential connections between visual and verbal information."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.336,
+            0.659,
+            0.352
+          ],
+          "level": 2,
+          "content": "Benefits of testing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.352,
+            0.911,
+            0.718
+          ],
+          "content": "Although not presented that way, creating an explanation could be regarded as a form of testing. Considerable research has documented positive effects of testing on learning. Presumably taking a test requires retrieving and sometimes integrating the learned material and those processes can augment learning without additional teaching or study (e.g. Roediger & Karpicke, 2006; Roediger, Putnam, & Smith, 2011; Wheeler & Roediger, 1992). Hausmann and Vanlehn (2007) addressed the possibility that generating explanations is beneficial because learners merely spend more time with the content material than learners who are not required to generate an explanation. In their study, they compared the effects of using instructions to self-explain with instructions to merely paraphrase physics (electrodynamics) material. Attending to provided explanations by paraphrasing was not as effective as generating explanations as evidenced by retention scores on an exam 29 days after the experiment and transfer scores within and across domains. Their study concludes, “the important variable for learning was the process of producing an explanation” (p. 423). Thus, we expect benefits from creating either kind of explanation but for the reasons outlined previously, we expect larger benefits from creating visual explanations."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.731,
+            0.676,
+            0.746
+          ],
+          "level": 2,
+          "content": "Present experiments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.746,
+            0.911,
+            0.931
+          ],
+          "content": "This study set out to answer a number of related questions about the role of learner-generated explanations in learning and understanding of invisible processes. (1) Do students learn more when they generate visual or verbal explanations? We anticipate that learning will be greater with the creation of visual explanations, as they encourage completeness and the integration of structure and function. (2) Does the inclusion of structural and functional information correlate with learning as measured by a post-test? We predict that including greater counts of information, particularly invisible and functional information, will positively correlate with higher post-test scores."
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.532,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.909,
+            0.053
+          ],
+          "content": "Page 4 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.108,
+            0.493,
+            0.202
+          ],
+          "content": "(3) Does spatial ability predict the inclusion of structural and functional information in explanations, and does spatial ability predict post-test scores? We predict that high spatial ability participants will include more information in their explanations, and will score higher on post-tests."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.214,
+            0.203,
+            0.23
+          ],
+          "level": 2,
+          "content": "Experiment 1"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.23,
+            0.493,
+            0.521
+          ],
+          "content": "The first experiment examines the effects of creating visual or verbal explanations on the comprehension of a bicycle tire pump’s operation in participants with low and high spatial ability. Although the pump itself is not invisible, the components crucial to its function, notably the inlet and outlet valves, and the movement of air, are located inside the pump. It was predicted that visual explanations would include more information than verbal explanations, particularly structural information, since their construction encourages completeness and the production of a whole mechanical system. It was also predicted that functional information would be biased towards a verbal format, since much of the function of the pump is hidden and difficult to express in pictures. Finally, it was predicted that high spatial ability participants would be able to produce more complete explanations and would thus also demonstrate better performance on the post-test. Explanations were coded for structural and functional content, essential features, invisible features, arrows, and multiple steps."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.533,
+            0.161,
+            0.548
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.549,
+            0.18,
+            0.564
+          ],
+          "level": 2,
+          "content": "Participants"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.563,
+            0.493,
+            0.81
+          ],
+          "content": "Participants were 127 (59 female) seventh and eighth grade students, aged 12–14 years, enrolled in an independent school in New York City. The school’s student body is 70% white, 30% other ethnicities. Approximately 25% of the student body receives financial aid. The sample consisted of three class sections of seventh grade students and three class sections of eighth grade students. Both seventh and eighth grade classes were integrated science (earth, life, and physical sciences) and students were not grouped according to ability in any section. Written parental consent was obtained by means of signed informed consent forms. Each participant was randomly assigned to one of two conditions within each class. There were 64 participants in the visual condition explained the bicycle pump’s function by drawing and 63 participants explained the pump’s function by writing."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.822,
+            0.161,
+            0.837
+          ],
+          "level": 2,
+          "content": "Materials"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.837,
+            0.493,
+            0.929
+          ],
+          "content": "The materials consisted of a 12-inch Spalding bicycle pump, a blank 8.5 × 11 in. sheet of paper, and a post-test (Additional file 1). The pump’s chamber and hose were made of clear plastic; the handle and piston were black plastic. The parts of the pump (e.g. inlet valve, piston) were labeled."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.108,
+            0.911,
+            0.276
+          ],
+          "content": "Spatial ability was assessed using the Vandenberg and Kuse (1978) mental rotation test (MRT). The MRT is a 20-item test in which two-dimensional drawings of threedimensional objects are compared. Each item consists of one “target” drawing and four drawings that are to be compared to the target. Two of the four drawings are rotated versions of the target drawing and the other two are not. The task is to identify the two rotated versions of the target. A score was determined by assigning one point to each question if both of the correct rotated versions were chosen. The maximum score was 20 points."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.276,
+            0.912,
+            0.369
+          ],
+          "content": "The post-test consisted of 16 true/false questions printed on a single sheet of paper measuring 8.5 × 11 in. Half of the questions related to the structure of the pump and the other half related to its function. The questions were adapted from Heiser and Tversky (2002) in order to be clear and comprehensible for this age group."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.382,
+            0.586,
+            0.397
+          ],
+          "level": 2,
+          "content": "Procedure"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.397,
+            0.912,
+            0.931
+          ],
+          "content": "The experiment was conducted over the course of two non-consecutive days during the normal school day and during regularly scheduled class time. On the first day, participants completed the MRT as a whole-class activity. After completing an untimed practice test, they were given 3 min for each of the two parts of the MRT. On the second day, occurring between two and four days after completing the MRT, participants were individually asked to study an actual bicycle tire pump and were then asked to generate explanations of its function. The participants were tested individually in a quiet room away from the rest of the class. In addition to the pump, each participant was one instruction sheet and one blank sheet of paper for their explanations. The post-test was given upon completion of the explanation. The instruction sheet was read aloud to participants and they were instructed to read along. The first set of instructions was as follows: “A bicycle pump is a mechanical device that pumps air into bicycle tires. First, take this bicycle pump and try to understand how it works. Spend as much time as you need to understand the pump.” The next set of instructions differed for participants in each condition. The instructions for the visual condition were as follows: “Then, we would like you to draw your own diagram or set of diagrams that explain how the bike pump works. Draw your explanation so that someone else who has not seen the pump could understand the bike pump from your explanation. Don’t worry about the artistic quality of the diagrams; in fact, if something is hard for you to draw, you can explain what you would draw. What’s important is that the explanation should be primarily visual, in a diagram or diagrams.” The instructions for the verbal condition were as follows: “Then, we would like you to write an explanation of how the bike pump works. Write your explanation so that someone else who"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.532,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.909,
+            0.053
+          ],
+          "content": "Page 5 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.109,
+            0.493,
+            0.278
+          ],
+          "continues_prev": true,
+          "content": "has not seen the pump could understand the bike pump from your explanation.” All participants then received these instructions: “You may not use the pump while you create your explanations. Please return it to me when you are ready to begin your explanation. When you are finished with the explanation, you will hand in your explanation to me and I will then give you 16 true/false questions about the bike pump. You will not be able to look at your explanation while you complete the questions.” Study and test were untimed. All students finished within the 45-min class period."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.294,
+            0.155,
+            0.309
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.31,
+            0.192,
+            0.325
+          ],
+          "level": 2,
+          "content": "Spatial ability"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.325,
+            0.493,
+            0.433
+          ],
+          "content": "The mean score on the MRT was 10.56, with a median of 11. Boys scored significantly higher (M = 13.5, SD = 4.4) than girls (M = 8.8, SD = 4.5), F(1, 126) = 19.07, p < 0.01, a typical finding (Voyer, Voyer, & Bryden, 1995). Participants were split into high or low spatial ability by the median. Low and high spatial ability participants were equally distributed in the visual and verbal groups."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.45,
+            0.229,
+            0.464
+          ],
+          "level": 2,
+          "content": "Learning outcomes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.464,
+            0.492,
+            0.664
+          ],
+          "content": "It was predicted that high spatial ability participants would be better able to mentally animate the bicycle pump system and therefore score higher on the post-test and that post-test scores would be higher for those who created visual explanations. Table 1 shows the scores on the post-test by condition and spatial ability. A two-way factorial ANOVA revealed marginally significant main effect of spatial ability F(1, 124) = 3.680, p = 0.06, with high spatial ability participants scoring higher on the post-test. There was also a significant interaction between spatial ability and explanation type F(1, 124) = 4.094, p < 0.01, see Fig. 1. Creating a visual explanation of the bicycle pump selectively helped low spatial participants."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.68,
+            0.238,
+            0.695
+          ],
+          "level": 2,
+          "content": "Coding explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.695,
+            0.492,
+            0.788
+          ],
+          "content": "Explanations (see Fig. 2) were coded for structural and functional content, essential features, invisible features, arrows, and multiple steps. A subset of the explanations (20%) was coded by the first author and another researcher using the same coding system as a guide. The agreement between scores was above 90% for all"
+        },
+        {
+          "type": "table",
+          "bbox": [
+            0.09,
+            0.822,
+            0.49,
+            0.924
+          ],
+          "content": "<table><tr><td rowspan=\"3\">Spatial ability</td><td colspan=\"6\">Explanation type</td></tr><tr><td colspan=\"2\">Visual</td><td colspan=\"2\">Verbal</td><td colspan=\"2\">Total</td></tr><tr><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td></tr><tr><td>Low</td><td>11.45</td><td>1.93</td><td>9.75</td><td>2.31</td><td>10.60</td><td>2.27</td></tr><tr><td>High</td><td>11.20</td><td>1.47</td><td>11.60</td><td>1.80</td><td>11.42</td><td>1.65</td></tr><tr><td>Total</td><td>11.3</td><td>1.71</td><td>10.74</td><td>2.23</td><td></td><td></td></tr></table>",
+          "captions": [
+            {
+              "bbox": [
+                0.09,
+                0.805,
+                0.485,
+                0.82
+              ],
+              "content": "Table 1 Post-test scores, by explanation type and spatial ability"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_4_table_11.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.515,
+            0.111,
+            0.903,
+            0.325
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.516,
+                0.326,
+                0.859,
+                0.341
+              ],
+              "content": "Fig. 1 Scores on the post-test by condition and spatial ability"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_4_chart_12.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.367,
+            0.909,
+            0.413
+          ],
+          "continues_prev": true,
+          "content": "measures. Disagreements were resolved through discussion. The first author then scored the remaining explanations."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.507,
+            0.428,
+            0.735,
+            0.442
+          ],
+          "level": 2,
+          "content": "Coding for structure and function"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.442,
+            0.91,
+            0.685
+          ],
+          "content": "A maximum score of 12 points was awarded for the inclusion and labeling of six structural components: chamber, piston, inlet valve, outlet valve, handle, and hose. For the visual explanations, 1 point was given for a component drawn correctly and 1 additional point if the component was labeled correctly. For verbal explanations, sentences were divided into propositions, the smallest unit of meaning in a sentence. Descriptions of structural location e.g. “at the end of the piston is the inlet valve,” or of features of the components, e.g. the shape of a part, counted as structural components. Information was coded as functional if it depicted (typically with an arrow) or described the function/movement of an individual part, or the way multiple parts interact. No explanation contained more than ten functional units."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.685,
+            0.911,
+            0.93
+          ],
+          "content": "Visual explanations contained significantly more structural components $(M = 6.05,   SD  = 2.76)$ than verbal explanations $( \\mathrm { M } = 4 . 2 7 , ~ \\mathrm { S D } = 1 . 5 4 ) , ~ \\mathrm { F } ( 1 , ~ 1 2 6 ) = 2 0 . 5 3 , ~ p < 0 . 0 5 .$ The number of functional components did not differ between visual and verbal explanations as displayed in Figs. 3 and 4. Many visual explanations (67%) contained verbal components; the structural and functional information in explanations was coded as depictive or descriptive. Structural and functional information were equally likely to be expressed in words or pictures in visual explanations. It was predicted that explanations created by high spatial participants would include more functional information. However, there were no significant differences found between low spatial (M = 5.15, SD = 2.21) and high spatial (M = 4.62, SD = 2.16) participants in the number of structural units or between low spatial (M = 3.83, SD = 2.51)"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 6 of 14"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.096,
+            0.113,
+            0.904,
+            0.708
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_2.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.291,
+            0.561,
+            0.681,
+            0.686
+          ],
+          "content": "You take the handel and push the pistin through the chaber. The inlet valve is pushed down to the bottom of the chamber aad the air is pushed into the bike throush the outlet valve. The pressure of air bviidins up in the cylinder causes the outlet valve to open, when the inlet valve upitopens."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.731,
+            0.491,
+            0.762
+          ],
+          "content": "and high spatial (M = 4.10, SD = 2.13) participants in the number of functional units."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.777,
+            0.28,
+            0.792
+          ],
+          "level": 2,
+          "content": "Coding of essential features"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.792,
+            0.493,
+            0.93
+          ],
+          "content": "To further establish a relationship between the explanations generated and outcomes on the post-test, explanations were also coded for the inclusion of information essential to its function according to a 4-point scale (adapted from Hall et al., 1997). One point was given if both the inlet and the outlet valve were clearly present in the drawing or described in writing, 1 point was given if the piston inserted into the chamber was shown or described to be airtight, and 1 point was given for each of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.506,
+            0.731,
+            0.907,
+            0.762
+          ],
+          "continues_prev": true,
+          "content": "the two valves if they were shown or described to be opening/closing in the correct direction."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.761,
+            0.908,
+            0.839
+          ],
+          "content": "Visual explanations contained significantly more essential information (M = 1.78, SD = 1.0) than verbal explanations (M = 1.20, SD = 1.21), F(1, 126) = 7.63, p < 0.05. Inclusion of essential features correlated positively with post-test scores, r = 0.197, p < 0.05)."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.507,
+            0.853,
+            0.736,
+            0.868
+          ],
+          "level": 2,
+          "content": "Coding arrows and multiple steps"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.868,
+            0.909,
+            0.93
+          ],
+          "content": "For the visual explanations, three uses of arrows were coded and tallied: labeling a part or action, showing motion, or indicating sequence. Analysis of visual explanations revealed that 87% contained arrows. No significant"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.532,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 7 of 14"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.096,
+            0.111,
+            0.478,
+            0.332
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.1,
+                0.334,
+                0.473,
+                0.36
+              ],
+              "content": "Fig. 3 Average number of structural and functional components in visual and verbal explanations"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_6_chart_2.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.109,
+            0.909,
+            0.17
+          ],
+          "continues_prev": true,
+          "content": "differences were found between low and high spatial participants’ use of arrows to label and no signification correlations were found between the use of arrows and learning outcomes measured on the post-test."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.17,
+            0.91,
+            0.293
+          ],
+          "content": "The explanations were coded for the number of discrete steps used to explain the process of using the bike pump. The number of steps used by participants ranged from one to six. Participants whose explanations, whether verbal or visual, contained multiple steps scored significantly higher (M = 0.76, SD = 0.18) on the post-test than participants whose explanations consisted of a single step (M = 0.67, SD = 0.19), F(1, 126) = 5.02, p < 0.05."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.507,
+            0.306,
+            0.676,
+            0.321
+          ],
+          "level": 2,
+          "content": "Coding invisible features"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.321,
+            0.909,
+            0.384
+          ],
+          "content": "The bicycle tire pump, like many mechanical devices, contains several structural features that are hidden or invisible and must be inferred from the function of the pump. For the bicycle pump the invisible features are the inlet and"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.095,
+            0.398,
+            0.903,
+            0.906
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.101,
+                0.906,
+                0.424,
+                0.921
+              ],
+              "content": "Fig. 4 Visual and verbal explanations of chemical bonding"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_6_image_8.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 8 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.109,
+            0.49,
+            0.155
+          ],
+          "continues_prev": true,
+          "content": "outlet valves and the three phases of movement of air, entering the pump, moving through the pump, exiting the pump. Each feature received 1 point for a total of 5 possible points."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.155,
+            0.492,
+            0.232
+          ],
+          "content": "The mean score for the inclusion of invisible features was 3.26, SD = 1.25. The data were analyzed using linear regression and revealed that the total score for invisible parts significantly predicted scores on the post-test, F(1, 118) = 3.80, p = 0.05."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.245,
+            0.181,
+            0.26
+          ],
+          "level": 2,
+          "content": "Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.26,
+            0.492,
+            0.428
+          ],
+          "content": "In the first experiment, students learned the workings of a bicycle pump from interacting with an actual pump and creating a visual or verbal explanation of its function. Understanding the functionality of a bike pump depends on the actions and consequences of parts that are not visible. Overall, the results provide support for the use of learnergenerated visual explanations in developing understanding of a new scientific system. The results show that low spatial ability participants were able to learn as successfully as high spatial ability participants when they first generated an explanation in a visual format."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.427,
+            0.493,
+            0.777
+          ],
+          "content": "Visual explanations may have led to greater understanding for a number of reasons. As discussed previously, visual explanations encourage completeness. They force learners to decide on the size, shape, and location of parts/objects. Understanding the “hidden” function of the invisible parts is key to understanding the function of the entire system and requires an understanding of how both the visible and invisible parts interact. The visual format may have been able to elicit components and concepts that are invisible and difficult to integrate into the formation of a mental model. The results show that including more of the essential features and showing multiple steps correlated with superior test performance. Understanding the bicycle pump requires understanding how all of these components are connected through movement, force, and function. Many (67%) of the visual explanations also contained written components to accompany their explanation. Arguably, some types of information may be difficult to depict visually and verbal language has many possibilities that allow for specificity. The inclusion of text as a complement to visual explanations may be key to the success of learner-generated explanations and the development of understanding."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.777,
+            0.493,
+            0.931
+          ],
+          "content": "A limitation of this experiment is that participants were not provided with detailed instructions for completing their explanations. In addition, this experiment does not fully clarify the role of spatial ability, since high spatial participants in the visual and verbal groups demonstrated equivalent knowledge of the pump on the post-test. One possibility is that the interaction with the bicycle pump prior to generating explanations was a sufficient learning experience for the high spatial participants. Other researchers (e.g. Flick, 1993) have shown that"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.109,
+            0.91,
+            0.17
+          ],
+          "continues_prev": true,
+          "content": "hands-on interactive experiences can be effective learning situations. High spatial ability participants may be better able to imagine the movement and function of a system (e.g. Hegarty, 1992)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.17,
+            0.911,
+            0.49
+          ],
+          "content": "Experiment 1 examined learning a mechanical system with invisible (hidden) parts. Participants were introduced to the system by being able to interact with an actual bicycle pump. While we did not assess participants’ prior knowledge of the pump with a pre-test, participants were randomly assigned to each condition. The findings have promising implications for teaching. Creating visual explanations should be an effective way to improve performance, especially in low spatial students. Instructors can guide the creation of visual explanations toward the features that augment learning. For example, students can be encouraged to show every step and action and to focus on the essential parts, even if invisible. The coding system shows that visual explanations can be objectively evaluated to provide feedback on students’ understanding. The utility of visual explanations may differ for scientific phenomena that are more abstract, or contain elements that are invisible due to their scale. Experiment 2 addresses this possibility by examining a sub-microscopic area of science: chemical bonding."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.503,
+            0.621,
+            0.518
+          ],
+          "level": 2,
+          "content": "Experiment 2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.518,
+            0.911,
+            0.747
+          ],
+          "content": "In this experiment, we examine visual and verbal explanations in an area of chemistry: ionic and covalent bonding. Chemistry is often regarded as a difficult subject; one of the essential or inherent features of chemistry which presents difficulty is the interplay between the macroscopic, sub-microscopic, and representational levels (e.g. Bradley & Brand, 1985; Johnstone, 1991; Taber, 1997). In chemical bonding, invisible components engage in complex processes whose scale makes them impossible to observe. Chemists routinely use visual representations to investigate relationships and move between the observable, physical level and the invisible particulate level (Kozma, Chin, Russell, & Marx, 2002). Generating explanations in a visual format may be a particularly useful learning tool for this domain."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.746,
+            0.911,
+            0.931
+          ],
+          "content": "For this topic, we expect that creating a visual rather than verbal explanation will aid students of both high and low spatial abilities. Visual explanations demand completeness; they were predicted to include more information than verbal explanations, particularly structural information. The inclusion of functional information should lead to better performance on the post-test since understanding how and why atoms bond is crucial to understanding the process. Participants with high spatial ability may be better able to explain function since the sub-microscopic nature of bonding requires mentally imagining invisible particles and how they"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.09,
+            0.038,
+            0.532,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.83,
+            0.039,
+            0.909,
+            0.053
+          ],
+          "content": "Page 9 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.109,
+            0.493,
+            0.308
+          ],
+          "continues_prev": true,
+          "content": "interact. This experiment also asks whether creating an explanation per se can increase learning in the absence of additional teaching by administering two post-tests of knowledge, one immediately following instruction but before creating an explanation and one after creating an explanation. The scores on this immediate post-test were used to confirm that the visual and verbal groups were equivalent prior to the generation of explanations. Explanations were coded for structural and functional information, arrows, specific examples, and multiple representations. Do the acts of selecting, integrating, and explaining knowledge serve learning even in the absence of further study or teaching?"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.32,
+            0.161,
+            0.336
+          ],
+          "level": 2,
+          "content": "Method"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.337,
+            0.18,
+            0.351
+          ],
+          "level": 2,
+          "content": "Participants"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.351,
+            0.493,
+            0.46
+          ],
+          "content": "Participants were 126 (58 female) eighth grade students, aged 13–14 years, with written parental consent and enrolled in the same independent school described in Experiment 1. None of the students previously participated in Experiment 1. As in Experiment 1, randomization occurred within-class, with participants assigned to either the visual or verbal explanation condition."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.473,
+            0.162,
+            0.487
+          ],
+          "level": 2,
+          "content": "Materials"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.487,
+            0.493,
+            0.84
+          ],
+          "content": "The materials consisted of the MRT (same as Experiment 1), a video lesson on chemical bonding, two versions of the instructions, the immediate post-test, the delayed post-test, and a blank page for the explanations. All paper materials were typed on 8.5 × 11 in. sheets of paper. Both immediate and delayed post-tests consisted of seven multiple-choice items and three free-response items. The video lesson on chemical bonding consisted of a video that was 13 min 22 s. The video began with a brief review of atoms and their structure and introduced the idea that atoms combine to form molecules. Next, the lesson showed that location in the periodic table reveals the behavior and reactivity of atoms, in particular the gain, loss, or sharing of electrons. Examples of atoms, their valence shell structure, stability, charges, transfer and sharing of electrons, and the formation of ionic, covalent, and polar covalent bonds were discussed. The example of NaCl (table salt) was used to illustrate ionic bonding and the examples of $\\mathrm { O } _ { 2 }$ and $\\mathrm { H _ { 2 } O }$ (water) were used to illustrate covalent bonding. Information was presented verbally, accompanied by drawings, written notes of keywords and terms, and a color-coded periodic table."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.852,
+            0.17,
+            0.867
+          ],
+          "level": 2,
+          "content": "Procedure"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.867,
+            0.492,
+            0.93
+          ],
+          "content": "On the first of three non-consecutive school days, participants completed the MRT as a whole-class activity. On the second day (occurring between two and three days after completing the MRT), participants viewed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.108,
+            0.911,
+            0.443
+          ],
+          "continues_prev": true,
+          "content": "the recorded lesson on chemical bonding. They were instructed to pay close attention to the material but were not allowed to take notes. Immediately following the video, participants had 20 min to complete the immediate post-test; all finished within this time frame. On the third day (occurring on the next school day after viewing the video and completing the immediate post-test), the participants were randomly assigned to either the visual or verbal explanation condition. The typed instructions were given to participants along with a blank $8 . 5 \\times 1 1$ in. sheet of paper for their explanations. The instructions differed for each condition. For the visual condition, the instructions were as follows: “You have just finished learning about chemical bonding. On the next piece of paper, draw an explanation of how atoms bond and how ionic and covalent bonds differ. Draw your explanation so that another student your age who has never studied this topic will be able to understand it. Be as clear and complete as possible, and remember to use pictures/diagrams only. After you complete your explanation, you will be asked to answer a series of questions about bonding.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.442,
+            0.911,
+            0.58
+          ],
+          "content": "For the verbal condition the instructions were: “You have just finished learning about chemical bonding. On the next piece of paper, write an explanation of how atoms bond and how ionic and covalent bonds differ. Write your explanation so that another student your age who has never studied this topic will be able to understand it. Be as clear and complete as possible. After you complete your explanation, you will be asked to answer a series of questions about bonding.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.579,
+            0.911,
+            0.733
+          ],
+          "content": "Participants were instructed to read the instructions carefully before beginning the task. The participants completed their explanations as a whole-class activity. Participants were given unlimited time to complete their explanations. Upon completion of their explanations, participants were asked to complete the ten-question delayed post-test (comparable to but different from the first) and were given a maximum of 20 min to do so. All participants completed their explanations as well as the post-test during the 45-min class period."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.505,
+            0.745,
+            0.573,
+            0.76
+          ],
+          "level": 2,
+          "content": "Results"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.761,
+            0.609,
+            0.777
+          ],
+          "level": 2,
+          "content": "Spatial ability"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.776,
+            0.911,
+            0.853
+          ],
+          "content": "The mean score on the MRT was 10.39, with a median of 11. Boys (M = 12.5, SD = 4.8) scored significantly higher than girls (M = 8.0, SD = 4.0), F(1, 125) = 24.49, p < 0.01. Participants were split into low and high spatial ability based on the median."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.505,
+            0.868,
+            0.648,
+            0.883
+          ],
+          "level": 2,
+          "content": "Learning outcomes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.882,
+            0.911,
+            0.93
+          ],
+          "content": "The maximum score for both the immediate and delayed post-test was 10 points. A repeated measures ANOVA showed that the difference between the immediate"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.823,
+            0.039,
+            0.908,
+            0.053
+          ],
+          "content": "Page 10 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.11,
+            0.492,
+            0.413
+          ],
+          "continues_prev": true,
+          "content": "post-test scores (M = 4.63, SD = 0.469) and delayed post-test scores $(M = 7.04,\\  SD  = 0.299)$ was statistically significant F(1, 125) = 18.501, p < 0.05). Without any further instruction, scores increased following the generation of a visual or verbal explanation. Both groups improved significantly; those who created visual explanations $( \\mathrm { M } = 8 . 2 2 ,   \\mathrm { S D } = 0 . 2 0 8 ) ,   \\mathrm { F } ( 1 ,   1 2 5 ) = 5 1 . 2 4 ,   p < 0 . 0 1$ , Cohen’s d = 1.27 as well as those who created verbal explanations (M = 6.31, SD = 0.273), F(1,125) = 15.796, p < 0.05, Cohen’s $d = 0 . 7 1$ . As seen in Fig. 5, participants who generated visual explanations (M = 0.822, SD = 0.208) scored considerably higher on the delayed post-test than participants who generated verbal explanations (M = 0.631, SD = 0.273), F(1, 125) = 19.707, p < 0.01, Cohen’s d = 0.88. In addition, high spatial participants (M = 0.824, SD = 0.273) scored significantly higher than low spatial participants (M = 0.636, SD = 0.207), F(1, 125) = 19.94, p < 0.01, Cohen’s d = 0.87. The results of the test of the interaction between group and spatial ability was not significant."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.443,
+            0.237,
+            0.457
+          ],
+          "level": 2,
+          "content": "Coding explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.458,
+            0.493,
+            0.657
+          ],
+          "content": "Explanations were coded for structural and functional content, arrows, specific examples, and multiple representations. A subset of the explanations (20%) was coded by both the first author and a middle school science teacher with expertise in Chemistry. Both scorers used the same coding system as a guide. The percentage of agreement between scores was above 90 for all measures. The first author then scored the remainder of the explanations. As evident from Fig. 4, the visual explanations were individual inventions; they neither resembled each other nor those used in teaching. Most contained language, especially labels and symbolic language such as NaCl."
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.097,
+            0.68,
+            0.485,
+            0.892
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.099,
+                0.893,
+                0.467,
+                0.922
+              ],
+              "content": "Fig. 5 Scores on the post-tests by explanation type and spatial ability"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_9_chart_5.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.507,
+            0.109,
+            0.733,
+            0.124
+          ],
+          "level": 2,
+          "content": "Structure, function, and modality"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.124,
+            0.91,
+            0.397
+          ],
+          "content": "Visual and verbal explanations were coded for depicting or describing structural and functional components. The structural components included the following: the correct number of valence electrons, the correct charges of atoms, the bonds between non-metals for covalent molecules and between a metal and non-metal for ionic molecules, the crystalline structure of ionic molecules, and that covalent bonds were individual molecules. The functional components included the following: transfer of electrons in ionic bonds, sharing of electrons in covalent bonds, attraction between ions of opposite charge, bonding resulting in atoms with neutral charge and stable electron shell configurations, and outcome of bonding shows molecules with overall neutral charge. The presence of each component was awarded 1 point; the maximum possible points was 5 for structural and 5 for functional information. The modality, visual or verbal, of each component was also coded; if the information was given in both formats, both were coded."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.397,
+            0.909,
+            0.564
+          ],
+          "content": "As displayed in Fig. 6, visual explanations contained a significantly greater number of structural components $(M = 2.81,\\  SD  = 1.56)$ than verbal explanations (M = 1.30, SD = 1.54), F(1, 125) = 13.69, p < 0.05. There were no differences between verbal and visual explanations in the number of functional components. Structural information was more likely to be depicted (M = 3.38, SD = 1.49) than described (M = 0.429, SD = 1.03), F(1, 62) = 21.49, p < 0.05, but functional information was equally likely to be depicted (M = 1.86, SD = 1.10) or described (M = 1.71, SD = 1.87)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.564,
+            0.91,
+            0.658
+          ],
+          "content": "Functional information expressed verbally in the visual explanations significantly predicted scores on the post-test, F(1, 62) = 21.603, p < 0.01, while functional information in verbal explanations did not. The inclusion of structural information did not significantly predict test scores. As seen Fig. 7, explanations created by high"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.512,
+            0.671,
+            0.898,
+            0.892
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.516,
+                0.893,
+                0.889,
+                0.921
+              ],
+              "content": "Fig. 6 Average number of structural and functional components in visual and verbal explanations"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_9_chart_11.jpg"
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.823,
+            0.039,
+            0.909,
+            0.053
+          ],
+          "content": "Page 11 of 14"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.096,
+            0.111,
+            0.48,
+            0.316
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.099,
+                0.319,
+                0.459,
+                0.347
+              ],
+              "content": "Fig. 7 Average number of structural and functional components created by low and high spatial ability learners"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_10_chart_2.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.397,
+            0.492,
+            0.474
+          ],
+          "continues_prev": true,
+          "content": "spatial participants contained significantly more functional components, F(1, 125) = 7.13, p < 0.05, but there were no ability differences in the amount of structural information created by high spatial participants in either visual or verbal explanations."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.488,
+            0.146,
+            0.503
+          ],
+          "level": 2,
+          "content": "Arrows"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.503,
+            0.492,
+            0.596
+          ],
+          "content": "Ninety-two percent of visual explanations contained arrows. Arrows were used to indicate motion as well as to label. The use of arrows was positively correlated with scores on the post-test, r = 0.293, p < 0.05. There were no significant differences in the use of arrows between low and high spatial participants."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.61,
+            0.215,
+            0.624
+          ],
+          "level": 2,
+          "content": "Specific examples"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.624,
+            0.493,
+            0.778
+          ],
+          "content": "Explanations were coded for the use of specific examples, such as NaCl, to illustrate ionic bonding and $\\mathrm { C O _ { 2 } }$ and $\\mathrm { O } _ { 2 }$ to illustrate covalent bonding. High spatial participants (M = 1.6, SD = 0.69) used specific examples in their verbal and visual explanations more often than low spatial participants (M = 1.07, SD = 0.79), a marginally significant effect F(1, 125) = 3.65, p = 0.06. Visual and verbal explanations did not differ in the presence of specific examples. The inclusion of a specific example was positively correlated with delayed test scores, $\\mathrm { r } = 0 . 5 5 5 , p < 0 . 0 5$"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.792,
+            0.303,
+            0.807
+          ],
+          "level": 2,
+          "content": "Use of multiple representations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.807,
+            0.493,
+            0.93
+          ],
+          "content": "Many of the explanations (65%) contained multiple representations of bonding. For example, ionic bonding and its properties can be represented at the level of individual atoms or at the level of many atoms bonded together in a crystalline compound. The representations that were coded were as follows: symbolic (e.g. NaCl), atomic (showing structure of atom(s), and macroscopic (visible). Participants who created visual explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.109,
+            0.909,
+            0.187
+          ],
+          "continues_prev": true,
+          "content": "generated significantly more (M =1.79, SD = 1.20) than those who created verbal explanations (M = 1.33, SD = 0.48), F (125) = 6.03, p < 0.05. However, the use of multiple representations did not significantly correlate with delayed post-test scores on the delayed post-test."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.207,
+            0.677,
+            0.222
+          ],
+          "level": 2,
+          "content": "Metaphoric explanations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.223,
+            0.911,
+            0.376
+          ],
+          "content": "Although there were too few examples to be included in the statistical analyses, some participants in the visual group created explanations that used metaphors and/or analogies to illustrate the differences between the types of bonding. Figure 4 shows examples of metaphoric explanations. In one example, two stick figures are used to show “transfer” and “sharing” of an object between people. In another, two sharks are used to represent sodium and chlorine, and the transfer of fish instead of electrons."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.396,
+            0.598,
+            0.411
+          ],
+          "level": 2,
+          "content": "Discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.412,
+            0.911,
+            0.868
+          ],
+          "content": "In the second experiment, students were introduced to chemical bonding, a more abstract and complex set of phenomena than the bicycle pump used in the first experiment. Students were tested immediately after instruction. The following day, half the students created visual explanations and half created verbal explanations. Following creation of the explanations, students were tested again, with different questions. Performance was considerably higher as a consequence of creating either explanation despite the absence of new teaching. Generating an explanation in this way could be regarded as a test of learning. Seen this way, the results echo and amplify previous research showing the advantages of testing over study (e.g. Roediger et al., 2011; Roediger & Karpicke, 2006; Wheeler & Roediger, 1992). Specifically, creating an explanation requires selecting the crucial information, integrating it temporally and causally, and expressing it clearly, processes that seem to augment learning and understanding without additional teaching. Importantly, creating a visual explanation gave an extra boost to learning outcomes over and above the gains provided by creating a verbal explanation. This is most likely due to the directness of mapping complex systems to a visual-spatial format, a format that can also provide a natural check for completeness and coherence as well as a platform for inference. In the case of this more abstract and complex material, generating a visual explanation benefited both low spatial and high spatial participants even if it did not bring low spatial participants up to the level of high spatial participants as for the bicycle pump."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.868,
+            0.911,
+            0.93
+          ],
+          "content": "Participants high in spatial ability not only scored better, they also generated better explanations, including more of the information that predicted learning. Their explanations contained more functional information and more"
+        }
+      ]
+    },
+    {
+      "page_idx": 11,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.038,
+            0.531,
+            0.053
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.823,
+            0.039,
+            0.909,
+            0.053
+          ],
+          "content": "Page 12 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.109,
+            0.491,
+            0.139
+          ],
+          "continues_prev": true,
+          "content": "specific examples. Their visual explanations also contained more functional information."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.14,
+            0.493,
+            0.309
+          ],
+          "content": "As in Experiment 1, qualities of the explanations pre-dicted learning outcomes. Including more arrows, typically used to indicate function, predicted delayed test scores as did articulating more functional information in words in visual explanations. Including more specific examples in both types of explanation also improved learning outcomes. These are all indications of deeper understanding of the processes, primarily expressed in the visual explanations. As before, these findings provide ways that educators can guide students to craft better visual explanations and augment learning."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.337,
+            0.225,
+            0.351
+          ],
+          "level": 2,
+          "content": "General discussion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.351,
+            0.492,
+            0.534
+          ],
+          "content": "Two experiments examined how learner-generated explanations, particularly visual explanations, can be used to increase understanding in scientific domains, notably those that contain “invisible” components. It was proposed that visual explanations would be more effective than verbal explanations because they encourage completeness and coherence, are more explicit, and are typically multimodal. These two experiments differ meaningfully from previous studies in that the information selected for drawing was not taken from a written text, but from a physical object (bicycle pump) and a class lesson with multiple representations (chemical bonding)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.533,
+            0.493,
+            0.931
+          ],
+          "content": "The results show that creating an explanation of a STEM phenomenon benefits learning, even when the explanations are created after learning and in the absence of new instruction. These gains in performance in the absence of teaching bear similarities to recent research showing gains in learning from testing in the absence of new instruction (e.g. Roediger et al., 2011; Roediger & Karpicke, 2006; Wheeler & Roediger, 1992). Many researchers have argued that the retrieval of information required during testing strengthens or enhances the retrieval process itself. Formulating explanations may be an especially effective form of testing for post-instruction learning. Creating an explanation of a complex system requires the retrieval of critical information and then the integration of that information into a co-herent and plausible account. Other factors, such as the timing of the creation of the explanations, and whether feedback is provided to students, should help clarify the benefits of generating explanations and how they may be seen as a form of testing. There may even be additional benefits to learners, including increasing their engagement and motivation in school, and increasing their communication and reasoning skills (Ainsworth, Prain, & Tytler, 2011). Formulating a visual explanation draws upon students’ creativity and imagination as they actively create their own product."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.504,
+            0.109,
+            0.911,
+            0.491
+          ],
+          "content": "As in previous research, students with high spatial ability both produced better explanations and performed better on tests of learning (e.g. Uttal et al., 2013). The visual explanations of high spatial students contained more information and more of the information that predicts learning outcomes. For the workings of a bicycle pump, creating a visual as opposed to verbal explanation had little impact on students of high spatial ability but brought students of lower spatial ability up to the level of students with high spatial abilities. For the more difficult set of concepts, chemical bonding, creating a visual explanation led to much larger gains than creating a verbal one for students both high and low in spatial ability. It is likely a mistake to assume that how and high spatial learners will remain that way; there is evidence that spatial ability develops with experience (Baenninger & Newcombe, 1989). It is possible that low spatial learners need more support in constructing explanations that require imagining the movement and manipulation of objects in space. Students learned the function of the bike pump by examining an actual pump and learned bonding through a video presentation. Future work to investigate methods of pre-senting material to students may also help to clarify the utility of generating explanations."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.506,
+            0.503,
+            0.601,
+            0.518
+          ],
+          "level": 2,
+          "content": "Conclusion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.518,
+            0.911,
+            0.823
+          ],
+          "content": "Creating visual explanations had greater benefits than those accruing from creating verbal ones. Surely some of the effectiveness of visual explanations is because they represent and communicate more directly than language. Elements of a complex system can be depicted and arrayed spatially to reflect actual or metaphoric spatial configurations of the system parts. They also allow, indeed, encourage, the use of well-honed spatial inferences to substitute for and support abstract inferences (e.g. Larkin & Simon, 1987; Tversky, 2011). As noted, visual explanations provide checks for completeness and co-herence, that is, verification that all the necessary elements of the system are represented and that they work together properly to produce the outcomes of the processes. Visual explanations also provide a concrete reference for making and checking inferences about the behavior, causality, and function of the system. Thus, creating a visual explanation facilitates the selection and integration of information underlying learning even more than creating a verbal explanation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.505,
+            0.822,
+            0.911,
+            0.931
+          ],
+          "content": "Creating visual explanations appears to be an underused method of supporting and evaluating students’ understanding of dynamic processes. Two obstacles to using visual explanations in classrooms seem to be developing guidelines for creating visual explanations and developing objective scoring systems for evaluating them. The present findings give insights into both. Creating a complete and"
+        }
+      ]
+    },
+    {
+      "page_idx": 12,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.091,
+            0.039,
+            0.531,
+            0.052
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.823,
+            0.04,
+            0.907,
+            0.052
+          ],
+          "content": "Page 13 of 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.109,
+            0.492,
+            0.488
+          ],
+          "continues_prev": true,
+          "content": "coherent visual explanation entails selecting the essential components and linking them by behavior, process, or causality. This structure and organization is familiar from recipes or construction sets: first the ingredients or parts, then the sequence of actions. It is also the ingredients of theater or stories: the players and their actions. In fact, the creation of visual explanations can be practiced on these more familiar cases and then applied to new ones in other domains. Deconstructing and reconstructing knowledge and information in these ways has more generality than visual explanations: these techniques of analysis serve thought and provide skills and tools that underlie creative thought. Next, we have shown that objective scoring systems can be devised, beginning with separating the information into structure and function, then further decomposing the structure into the central parts or actors and the function into the qualities of the sequence of actions and their consequences. Assessing students’ prior knowledge and misconceptions can also easily be accomplished by having students create explanations at different times in a unit of study. Teachers can see how their students’ ideas change and if students can apply their understanding by analyzing visual explanations as a culminating activity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.489,
+            0.492,
+            0.777
+          ],
+          "content": "Creating visual explanations of a range of phenomena should be an effective way to augment students’ spatial thinking skills, thereby increasing the effectiveness of these explanations as spatial ability increases. The proverbial reading, writing, and arithmetic are routinely regarded as the basic curriculum of school learning and teaching. Spatial skills are not typically taught in schools, but should be: these skills can be learned and are essential to functioning in the contemporary and future world (see Uttal et al., 2013). In our lives, both daily and professional, we need to understand the maps, charts, diagrams, and graphs that appear in the media and public places, with our apps and appliances, in forms we complete, in equipment we operate. In particular, spatial thinking underlies the skills needed for professional and amateur understanding in STEM fields and knowledge and understanding STEM concepts is increasingly required in what have not been regarded as STEM fields, notably the largest employers, business, and service."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.777,
+            0.492,
+            0.93
+          ],
+          "content": "This research has shown that creating visual explanations has clear benefits to students, both specific and potentially general. There are also benefits to teachers, specifically, revealing misunderstandings and gaps in knowledge. Visualizations could be used by teachers as a formative assessment tool to guide further instructional activities and scoring rubrics could allow for the identification of specific misconceptions. The bottom line is clear. Creating a visual explanation is an excellent way to learn and master complex systems."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.109,
+            0.625,
+            0.123
+          ],
+          "level": 2,
+          "content": "Additional file"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.516,
+            0.139,
+            0.737,
+            0.152
+          ],
+          "content": "Additional file 1: Post-tests. (DOC 44 kb)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.173,
+            0.615,
+            0.185
+          ],
+          "level": 2,
+          "content": "Acknowledgments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.506,
+            0.185,
+            0.907,
+            0.3
+          ],
+          "content": "The authors are indebted to the Varieties of Understanding Project at Fordham University and The John Templeton Foundation and to the following National Science Foundation grants for facilitating the research and/or preparing the manuscript: National Science Foundation NSF CHS-1513841, HHC 0905417, IIS-0725223, IIS-0855995, and REC 0440103. We are grateful to James E. Corter for his helpful suggestions and to Felice Frankel for her inspiration. The opinions expressed in this publication are those of the authors and do not necessarily reflect the views of the funders. Please address correspondence to Barbara Tversky at the Columbia Teachers College, 525 W. 120th St., New York, NY 10025, USA. Email: btversky@stanford.edu."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.314,
+            0.638,
+            0.325
+          ],
+          "level": 2,
+          "content": "Authors’ contributions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.326,
+            0.9,
+            0.361
+          ],
+          "content": "This research was part of EB’s doctoral dissertation under the advisement of BT. Both authors contributed to the design, analysis, and drafting of the manuscript. Both authors read and approved the final manuscript."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.376,
+            0.625,
+            0.388
+          ],
+          "level": 2,
+          "content": "Competing interests"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.387,
+            0.815,
+            0.4
+          ],
+          "content": "The author declares that they have no competing interests."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.41,
+            0.592,
+            0.421
+          ],
+          "level": 2,
+          "content": "Author details"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.421,
+            0.891,
+            0.446
+          ],
+          "content": "<sup>1</sup>University of Massachusetts Lowell, Lowell, MA, USA. <sup>2</sup>Stanford University, Columbia University Teachers College, New York, NY, USA."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.507,
+            0.455,
+            0.816,
+            0.481
+          ],
+          "content": "Received: 12 January 2016 Accepted: 15 November 2016 Published online: 07 December 2016"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.508,
+            0.494,
+            0.574,
+            0.506
+          ],
+          "level": 2,
+          "content": "References"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.507,
+            0.898,
+            0.54
+          ],
+          "content": "Ainsworth, S. E., Bibby, P. A., & Wood, D. J. (2002). Examining the effects of different multiple representational systems in learning primary mathematics. Journal of the Learning Sciences, 11(1), 25–62."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.541,
+            0.894,
+            0.574
+          ],
+          "content": "Ainsworth, S. E., & Iacovides, I. (2005). Learning by constructing self-explanation diagrams. Paper presented at the 11th Biennial Conference of European Association for Resarch on Learning and Instruction, Nicosia, Cyprus."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.576,
+            0.866,
+            0.597
+          ],
+          "content": "Ainsworth, S. E., & Loizou, A. T. (2003). The effects of self-explaining when learning with text or diagrams. Cognitive Science, 27(4), 669–681."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.598,
+            0.901,
+            0.619
+          ],
+          "content": "Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. Science, 26, 1096–1097."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.62,
+            0.901,
+            0.643
+          ],
+          "content": "Alesandrini, K. L. (1981). Pictorial-verbal and analytic-holistic learning strategies in science learning. Journal of Educational Psychology, 73, 358–368."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.644,
+            0.901,
+            0.676
+          ],
+          "content": "Aleven, V. & Koedinger, K. R. (2002). An effective metacognitive strategy: learning by doing and explaining with a computer-based cognitive tutor. Cognitive Science, 26, 147–179."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.677,
+            0.885,
+            0.7
+          ],
+          "content": "Baenninger, M., & Newcombe, N. (1989). The role of experience in spatial test performance: A meta-analysis. Sex Roles, 20(5–6), 327–344."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.7,
+            0.871,
+            0.721
+          ],
+          "content": "Bradley, J. D., & Brand, M. (1985). Stamping out misconceptions. Journal of Chemical Education, 62(4), 318."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.723,
+            0.88,
+            0.745
+          ],
+          "content": "Chi, M. T. (2009). Active-Constructive-Interactive: A conceptual framework for differentiating learning activities. Topics in Cognitive Science, 1, 73–105."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.746,
+            0.864,
+            0.767
+          ],
+          "content": "Chi, M. T. H., DeLeeuw, N., Chiu, M., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18, 439–477."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.768,
+            0.883,
+            0.791
+          ],
+          "content": "Craik, F., & Lockhart, R. (1972). Levels of processing: A framework for memory research. Journal of Verbal Learning and Verbal Behavior, 11, 671–684."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.792,
+            0.879,
+            0.824
+          ],
+          "content": "Edens, K. M., & Potter, E. (2003). Using descriptive drawings as a conceptual change strategy in elementary science. School Science and Mathematics, 103(3), 135–144."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.825,
+            0.894,
+            0.847
+          ],
+          "content": "Flick, L. B. (1993). The meanings of hands-on science. Journal of Science Teacher Education, 4, 1–8."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.848,
+            0.895,
+            0.881
+          ],
+          "content": "Glenberg, A. M., & Langston, W. E. (1992). Comprehension of illustrated text: Pictures help to build mental models. Journal of Memory and Language, 31, 129–151."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.511,
+            0.882,
+            0.903,
+            0.927
+          ],
+          "content": "Gobert, J. D., & Clement, J. J. (1999). Effects of student-generated diagrams versus student-generated summaries on conceptual understanding of causal and dynamic knowledge in plate tectonics. Journal of Research in Science Teaching, 36, 39–53."
+        }
+      ]
+    },
+    {
+      "page_idx": 13,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.092,
+            0.039,
+            0.531,
+            0.052
+          ],
+          "content": "Bobek and Tversky Cognitive Research: Principles and Implications (2016) 1:27"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.823,
+            0.04,
+            0.908,
+            0.052
+          ],
+          "content": "Page 14 of 14"
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.112,
+            0.489,
+            0.135
+          ],
+          "content": "Hall, V. C., Bailey, J., & Tillman, C. (1997). Can student-generated illustrations be worth ten thousand words? Journal of Educational Psychology, 89(4), 677–681."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.135,
+            0.475,
+            0.18
+          ],
+          "content": "Hausmann, R. G. M., & Vanlehn, K. (2007). Explaining self-explaining: A contrast between content and generation. In R. Luckin, K. R. Koedinger, & J. Greer (Eds.), Artificial intelligence in education: Building technology rich learning contexts that work (pp. 417–424). Amsterdam: Ios Press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.181,
+            0.481,
+            0.215
+          ],
+          "content": "Hegarty, M. (1992). Mental animation: Inferring motion from static displays of mechanical systems. Journal of Experimental Psychology: Learning, Memory & Cognition, 18, 1084–1102."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.215,
+            0.48,
+            0.249
+          ],
+          "content": "Hegarty, M., Carpenter, P.A., & Just, M.A. (1990). Diagrams in the comprehension of scientific text. In R. Barr, M.S. Kamil, P. Mosenthal, & P. D. Pearson (Eds.), Handbook of reading research (pp. 641–669). New York: Longman."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.249,
+            0.481,
+            0.272
+          ],
+          "content": "Hegarty, M., & Just, M. A. (1993). Constructing mental models of machines from text and diagrams. Journal of Memory and Language, 32, 717–742."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.273,
+            0.488,
+            0.306
+          ],
+          "content": "Hegarty, M., Kriz, S., & Cate, C. (2003). The roles of mental animations and external animations in understanding mechanical systems. Cognition & Instruction, 21(4), 325–360."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.307,
+            0.466,
+            0.33
+          ],
+          "content": "Heiser, J., & Tversky, B. (2002). Diagrams and descriptions in acquiring complex systems. Proceedings of the Cognitive Science Society. Hillsdale: Erlbaum."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.33,
+            0.46,
+            0.364
+          ],
+          "content": "Hmelo-Silver, C., & Pfeffer, M. G. (2004). Comparing expert and novice understanding of a complex system from the perspective of structures, behaviors, and functions. Cognitive Science, 28, 127–138."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.365,
+            0.488,
+            0.398
+          ],
+          "content": "Johnson, C. I., & Mayer, R. E. (2010). Applying the self-explanation principle to multimedia learning in a computer-based game-like environment. Computers in Human Behavior, 26, 1246–1252."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.399,
+            0.487,
+            0.421
+          ],
+          "content": "Johnstone, A. H. (1991). Why is science difficult to learn? Things are seldom what they seem. Journal of Chemical Education, 61(10), 847–849."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.422,
+            0.487,
+            0.445
+          ],
+          "content": "Kessell, A. M., & Tversky, B. (2011). Visualizing space, time, and agents: Production, performance, and preference. Cognitive Processing, 12, 43–52."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.445,
+            0.487,
+            0.478
+          ],
+          "content": "Kozhevnikov, M., Hegarty, M., & Mayer, R. (2002). Revising the Visualizer–Verbalizer Dimension: Evidence for Two Types of Visualizers. Cognition & Instruction, 20, 37–77."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.479,
+            0.488,
+            0.514
+          ],
+          "content": "Kozma, R., Chin, E., Russell, J., & Marx, N. (2002). The roles of representations and tools in the chemistry laboratory and their implication for chemistry learning. Journal of the Learning Sciences, 9(2), 105–143."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.514,
+            0.482,
+            0.537
+          ],
+          "content": "Larkin, J., & Simon, H. (1987). Why a diagram is (sometimes) worth ten thousand words. Cognitive Science, 11, 65–100."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.537,
+            0.47,
+            0.571
+          ],
+          "content": "Leutner, D., Leopold, C., & Sumfleth, E. (2009). Cognitive load and science text comprehension: Effects of drawing and mentally imagining text content. Computers in Human Behavior, 25, 284–289."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.571,
+            0.481,
+            0.594
+          ],
+          "content": "Levine, M. (1982). You-are-here maps: Psychological considerations. Environment and Behavior, 14, 221–237."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.594,
+            0.479,
+            0.617
+          ],
+          "content": "Mayer, R. E. (1989). Systematic thinking fostered by illustrations in scientific text. Journal of Educational Psychology, 81, 240–246."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.618,
+            0.485,
+            0.651
+          ],
+          "content": "Mayer, R. E., & Sims, V. K. (1994). For whom is a picture worth a thousand words? Extensions of a dual-coding theory of multimedia learning. Journal of Educational Psychology, 86(3), 389–401."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.651,
+            0.485,
+            0.686
+          ],
+          "content": "Perkins, D. N., & Grotzer, T. A. (2005). Dimensions of causal understanding: The role of complex causal models in students’ understanding of science. Studies in Science Education, 41, 117–166."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.686,
+            0.479,
+            0.709
+          ],
+          "content": "Roediger, H. L., & Karpicke, J. D. (2006). Test enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17, 249–255."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.71,
+            0.492,
+            0.744
+          ],
+          "content": "Roediger, H. L., Putnam, A. L., & Smith, M. A. (2011). Ten benefits of testing and their applications to educational practice. In B. H. Ross (Ed.), The psychology of learning and motivation (pp. 1–36). New York: Elsevier."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.744,
+            0.476,
+            0.777
+          ],
+          "content": "Roscoe, R. D., & Chi, M. T. H. (2007). Understanding tutor learning: Knowledgebuilding and knowledge-telling in peer tutors’ explanations and questions. Review of Educational Research, 77, 534–574."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.778,
+            0.49,
+            0.812
+          ],
+          "content": "Schwamborn, A., Mayer, R. E., Thillmann, H., Leopold, C., & Leutner, D. (2010). Drawing as a generative activity and drawing as a prognostic activity. Journal of Educational Psychology, 102, 872–879."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.812,
+            0.468,
+            0.835
+          ],
+          "content": "Taber, K. S. (1997). Student understanding of ionic bonding: Molecular versus electrostatic framework? School Science Review, 78(285), 85–95."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.835,
+            0.464,
+            0.848
+          ],
+          "content": "Tversky, B. (2011). Visualizing thought. Topics in Cognitive Science, 3, 499–535."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.094,
+            0.848,
+            0.461,
+            0.893
+          ],
+          "content": "Tversky, B., Heiser, J., MacKenzie, R., Lozano, S., & Morrison, J. B. (2007). Enriching animations. In R. Lowe & W. Schnotz (Eds.), Learning with animation: Research implications for design (pp. 263–285). New York: Cambridge University Press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.093,
+            0.893,
+            0.48,
+            0.927
+          ],
+          "content": "Tversky, B., & Suwa, M. (2009). Thinking with sketches. In A. B. Markman & K. L. Wood (Eds.), Tools for innovation (pp. 75–84). Oxford: Oxford University Press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.112,
+            0.888,
+            0.146
+          ],
+          "content": "Uttal, D. H., Meadow, N. G., Tipton, E., Hand, L. L., Alden, A. R., Warren, C., et al. (2013). The malleability of spatial skills: A meta-analysis of training studies. Psychological Bulletin, 139, 352–402."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.146,
+            0.891,
+            0.168
+          ],
+          "content": "Van Meter, P. (2001). Drawing construction as a strategy for learning from text. Journal of Educational Psychology, 93(1), 129–140."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.169,
+            0.888,
+            0.191
+          ],
+          "content": "Vandenberg, S. G., & Kuse, A. R. (1978). Mental rotations: A group test of threedimensional spatial visualization. Perceptual Motor Skills, 47, 599–604."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.192,
+            0.902,
+            0.225
+          ],
+          "content": "Voyer, D., Voyer, S., & Bryden, M. P. (1995). Magnitude of sex differences in spatial abilities: A meta-analysis and consideration of critical variables. Psychological Bulletin, 117, 250–270."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.226,
+            0.9,
+            0.259
+          ],
+          "content": "Wheeler, M. A., & Roediger, H. L. (1992). Disparate effects of repeated testing: Reconciling Ballard’s (1913) and Bartlett’s (1932) results. Psychological Science, 3, 240–245."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.26,
+            0.877,
+            0.294
+          ],
+          "content": "Wilkin, J. (1997). Learning from explanations: Diagrams can “inhibit” the self-explanation effect. In M. Anderson (Ed.), Reasoning with diagrammatic representations II. Menlo Park: AAAI Press."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.294,
+            0.874,
+            0.316
+          ],
+          "content": "Wittrock, M. C. (1990). Generative processes of comprehension. Educational Psychologist, 24, 345–376."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.51,
+            0.316,
+            0.895,
+            0.339
+          ],
+          "content": "Zacks, J., & Tversky, B. (1999). Bars and lines: A study of graphic communication. Memory and Cognition, 27, 1073–1079."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.766,
+            0.884,
+            0.8
+          ],
+          "level": 2,
+          "content": "Submit your manuscript to a journal and benefi t from:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.808,
+            0.704,
+            0.821
+          ],
+          "content": "7 Convenient online submission"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.822,
+            0.66,
+            0.834
+          ],
+          "content": "7 Rigorous peer review"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.836,
+            0.743,
+            0.849
+          ],
+          "content": "7 Immediate publication on acceptance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.85,
+            0.768,
+            0.862
+          ],
+          "content": "7 Open access: articles freely available online"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.863,
+            0.701,
+            0.876
+          ],
+          "content": "7 High visibility within the field"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.878,
+            0.744,
+            0.891
+          ],
+          "content": "7 Retaining the copyright to your article"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.908,
+            0.863,
+            0.922
+          ],
+          "content": "**Submit your next manuscript at** 7 **springeropen.com**"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.1.3"
+    },
+    "document": {
+      "title": "Creating visual explanations improves learning",
+      "authors": [
+        "Eliza Bobek"
+      ],
+      "subject": "Cogn. Research, doi:10.1186/s41235-016-0031-6",
+      "keywords": [
+        "Learning,Visual communication,STEM,Spatial ability,Dynamic system,Diagrammatic reasoning,Structure,Process,Complex system"
+      ],
+      "description": "Cogn. Research, doi:10.1186/s41235-016-0031-6",
+      "languages": [
+        "EN"
+      ],
+      "identifiers": [
+        "10.1186/s41235-016-0031-6"
+      ],
+      "publisher": "Cognitive Research: Principles and Implications",
+      "created_at": "2016-12-03T13:10:45+08:00",
+      "modified_at": "2016-12-06T21:08:03+01:00",
+      "creator_application": "Arbortext Advanced Print Publisher 9.1.440/W Unicode",
+      "producer_application": "Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)",
+      "page_count": 14,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 10,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 11,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 12,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        },
+        {
+          "page_idx": 13,
+          "width_pt": 595.2760009765625,
+          "height_pt": 790.8660278320312
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

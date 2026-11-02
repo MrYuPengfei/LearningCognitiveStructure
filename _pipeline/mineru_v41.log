@@ -35,3 +35,119 @@
 === 轮0 批次 1/1 (1 篇) ===
 [11-02 23:47:30]   [task] job_03c7fed48787cd8c5c12deb4 提交 1 篇 (tier=standard)
 [11-02 23:47:30]   [task] status=running progress=0/1
+[11-02 23:48:30]   [task] status=completed progress=1/1
+[11-02 23:48:30]   [ok] Barsalou_1999_Perceptual_Symbol_Systems.pdf (completed, 630691B)
+[11-02 23:48:30]   [batch done] 1 篇, 用时 60.4s
+[11-02 23:48:32]   累计已解析: 1/17  总耗时 62s
+[11-02 23:48:32] 
+完成: parsed=1, dup_skipped=0, 仍未成功=1, 总耗时 1.0 分钟
+[11-02 23:48:32] 剩余失败分布: download_failed=1
+[11-02 23:48:45] 总量 17, 待处理 16, 档位 standard, BATCH=1, 自动重试轮数 3
+[11-02 23:48:45] 
+=== 轮0 批次 1/16 (1 篇) ===
+[11-02 23:48:45]   [task] job_94db6aeaba63fcdde4fb47a0 提交 1 篇 (tier=standard)
+[11-02 23:48:45]   [task] status=running progress=0/1
+[11-02 23:49:00]   [task] status=completed progress=1/1
+[11-02 23:49:00]   [ok] Blunt_Karpicke_2014_Retrieval_Based_Concept_Mapping.pdf (completed, 58065B)
+[11-02 23:49:00]   [batch done] 1 篇, 用时 15.2s
+[11-02 23:49:02]   累计已解析: 2/17  总耗时 17s
+[11-02 23:49:02] 
+=== 轮0 批次 2/16 (1 篇) ===
+[11-02 23:49:02]   [task] job_c7a31f0f6396c7870672c863 提交 1 篇 (tier=standard)
+[11-02 23:49:02]   [task] status=running progress=0/1
+[11-02 23:49:12]   [task] status=completed progress=1/1
+[11-02 23:49:12]   [ok] Bobek_Tversky_2016_Visual_Explanations.pdf (completed, 66892B)
+[11-02 23:49:12]   [batch done] 1 篇, 用时 10.2s
+[11-02 23:49:14]   累计已解析: 3/17  总耗时 30s
+[11-02 23:49:14] 
+=== 轮0 批次 3/16 (1 篇) ===
+[11-02 23:49:14]   [task] job_46e7680d3f756d7821b68f25 提交 1 篇 (tier=standard)
+[11-02 23:49:14]   [task] status=running progress=0/1
+[11-02 23:49:34]   [task] status=completed progress=1/1
+[11-02 23:49:34]   [ok] Bransford_Johnson_1972_Contextual_Prerequisites.pdf (completed, 35922B)
+[11-02 23:49:35]   [batch done] 1 篇, 用时 20.2s
+[11-02 23:49:37]   累计已解析: 4/17  总耗时 52s
+[11-02 23:49:37] 
+=== 轮0 批次 4/16 (1 篇) ===
+[11-02 23:49:37]   [task] job_d09cd78f6403a199aaa4b5a0 提交 1 篇 (tier=standard)
+[11-02 23:49:37]   [task] status=running progress=0/1
+[11-02 23:50:02]   [task] status=completed progress=1/1
+[11-02 23:50:02]   [ok] Gentner_1983_Structure_Mapping.pdf (completed, 42701B)
+[11-02 23:50:02]   [batch done] 1 篇, 用时 25.2s
+[11-02 23:50:04]   累计已解析: 5/17  总耗时 79s
+[11-02 23:50:04] 
+=== 轮0 批次 5/16 (1 篇) ===
+[11-02 23:50:04]   [task] job_a32cc394b27fc6c59e5926c0 提交 1 篇 (tier=standard)
+[11-02 23:50:04]   [task] status=running progress=0/1
+[11-02 23:50:14]   [task] status=completed progress=1/1
+[11-02 23:50:14]   [ok] Karpicke_Blunt_2011_Retrieval_Concept_Mapping.pdf (completed, 33665B)
+[11-02 23:50:14]   [batch done] 1 篇, 用时 10.2s
+[11-02 23:50:16]   累计已解析: 6/17  总耗时 91s
+[11-02 23:50:16] 
+=== 轮0 批次 6/16 (1 篇) ===
+[11-02 23:50:16]   [task] job_14e6c345163ea0ac16830904 提交 1 篇 (tier=standard)
+[11-02 23:50:16]   [task] status=running progress=0/1
+[11-02 23:50:41]   [task] status=completed progress=1/1
+[11-02 23:50:41]   [ok] Nesbit_Adesope_2006_Concept_Maps_Meta_Analysis.pdf (completed, 107884B)
+[11-02 23:50:41]   [batch done] 1 篇, 用时 25.4s
+[11-02 23:50:43]   累计已解析: 7/17  总耗时 119s
+[11-02 23:50:43] 
+=== 轮0 批次 7/16 (1 篇) ===
+[11-02 23:50:44]   [task] job_8cda0d8b9783fd153c2005f7 提交 1 篇 (tier=standard)
+[11-02 23:50:44]   [task] status=running progress=0/1
+[11-02 23:51:09]   [task] status=completed progress=1/1
+[11-02 23:51:09]   [ok] Rau_2017_Multiple_Visual_Representations.pdf (completed, 185932B)
+[11-02 23:51:09]   [batch done] 1 篇, 用时 25.2s
+[11-02 23:51:11]   累计已解析: 8/17  总耗时 146s
+[11-02 23:51:11] 
+=== 轮0 批次 8/16 (1 篇) ===
+[11-02 23:51:11]   [task] job_f5941e48c702f380d91ea912 提交 1 篇 (tier=standard)
+[11-02 23:51:11]   [task] status=running progress=0/1
+[11-02 23:51:41]   [task] status=completed progress=1/1
+[11-02 23:51:41]   [ok] Schroeder_et_al_2018_Concept_Maps_Meta_Analysis.pdf (completed, 99094B)
+[11-02 23:51:41]   [batch done] 1 篇, 用时 30.3s
+[11-02 23:51:43]   累计已解析: 9/17  总耗时 178s
+[11-02 23:51:43] 
+=== 轮0 批次 9/16 (1 篇) ===
+[11-02 23:51:43]   [task] job_cf6cc0fa4ed560d16e05e03f 提交 1 篇 (tier=standard)
+[11-02 23:51:43]   [task] status=running progress=0/1
+[11-02 23:52:23]   [task] status=completed progress=1/1
+[11-02 23:52:23]   [ok] Simonsmeier_et_al_2022_Prior_Knowledge_Meta_Analysis.pd (completed, 146420B)
+[11-02 23:52:23]   [batch done] 1 篇, 用时 40.3s
+[11-02 23:52:25]   累计已解析: 10/17  总耗时 221s
+[11-02 23:52:25] 
+=== 轮0 批次 10/16 (1 篇) ===
+[11-02 23:52:26]   [task] job_bafedcb1c9f6e78f42594a3f 提交 1 篇 (tier=standard)
+[11-02 23:52:26]   [task] status=running progress=0/1
+[11-02 23:53:06]   [task] status=completed progress=1/1
+[11-02 23:53:06]   [ok] Sweller_1988_Cognitive_Load.pdf (completed, 77256B)
+[11-02 23:53:06]   [batch done] 1 篇, 用时 40.2s
+[11-02 23:53:08]   累计已解析: 11/17  总耗时 263s
+[11-02 23:53:08] 
+=== 轮0 批次 11/16 (1 篇) ===
+[11-02 23:53:08]   [task] job_d68f3519fe8f2d6c7292ebe4 提交 1 篇 (tier=standard)
+[11-02 23:53:08]   [task] status=running progress=0/1
+[11-02 23:53:38]   [task] status=completed progress=1/1
+[11-02 23:53:38]   [ok] Wang_et_al_2025_Concept_Mapping_STEM_Meta_Analysis.pdf (completed, 108026B)
+[11-02 23:53:38]   [batch done] 1 篇, 用时 30.2s
+[11-02 23:53:40]   累计已解析: 12/17  总耗时 295s
+[11-02 23:53:40] 
+=== 轮0 批次 12/16 (1 篇) ===
+[11-02 23:53:40]   [task] job_b7e7dd58b199b9b8ceb34fdc 提交 1 篇 (tier=standard)
+[11-02 23:53:40]   [task] status=running progress=0/1
+[11-02 23:53:50]   [task] status=completed progress=1/1
+[11-02 23:53:50]   [ok] Wilson_2002_Six_Views_Embodied_Cognition.pdf (completed, 77365B)
+[11-02 23:53:50]   [batch done] 1 篇, 用时 10.1s
+[11-02 23:53:52]   累计已解析: 13/17  总耗时 307s
+[11-02 23:53:52] 
+=== 轮0 批次 13/16 (1 篇) ===
+[11-02 23:53:52]   [task] job_bfe3453946cf51b1d50a44b0 提交 1 篇 (tier=standard)
+[11-02 23:53:52]   [task] status=running progress=0/1
+[11-02 23:54:02]   [task] status=completed progress=1/1
+[11-02 23:54:02]   [ok] 叶浩生等_2018_身体与认知表征.pdf (completed, 54848B)
+[11-02 23:54:02]   [batch done] 1 篇, 用时 10.1s
+[11-02 23:54:04]   累计已解析: 14/17  总耗时 319s
+[11-02 23:54:04] 
+=== 轮0 批次 14/16 (1 篇) ===
+[11-02 23:54:04]   [task] job_f035ed227d0763ddc64c01af 提交 1 篇 (tier=standard)
+[11-02 23:54:04]   [task] status=running progress=0/1
