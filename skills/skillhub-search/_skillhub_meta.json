@@ -1,0 +1,11 @@
+{
+  "name": "SkillHub 技能检索",
+  "installedAt": 1792726833113,
+  "source": "marketplace",
+  "version": "1.0.0",
+  "skillId": "skill_2104715168958169088",
+  "pay_mode": 0,
+  "description_zh": "在 SkillHub 平台（WorkBuddy 推荐市场 / BuiltinMarket）发现、检索并安装智能体（Agent）技能。\n基于 skills 列表接口，支持关键词分词搜索、一级标签（一级分类）筛选、关键词与标签的组合检索，以及检索后的安装落地。\n当用户需要在 SkillHub 上\"查找 / 搜索 / 按分类浏览 / 推荐 / 安装\"技能，或以需求/方法方式提问时使用，例如\"找个 xxx 技能\"\"有没有处理 PDF 的 skill\"\"SkillHub 上搜一下 xxx\"\"按分类看技能\"\"办公效率类有哪些技能\"\"推荐一个做数据分析的 skill\"\"这个需求有现成技能吗\"\"如何做 X\"\"找 X 的技能\"\"有能做…的吗\"。",
+  "description_en": "Discover, search, and install Agent skills on the SkillHub platform (WorkBuddy BuiltinMarket).\nBuilt on the skills list interface, it supports tokenized keyword search, first-level category (tag) filtering, combined keyword+tag retrieval, and post-search installation.\nUse when the user wants to find, browse by category, recommend, or install a skill on SkillHub, or asks need/method questions such as \"how to do X\", \"find a skill for X\", or \"is there something that can do ...\".",
+  "iconSource": "letter:auto"
+}

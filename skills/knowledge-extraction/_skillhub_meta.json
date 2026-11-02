@@ -1,0 +1,11 @@
+{
+  "name": "知识萃取",
+  "installedAt": 1792726857517,
+  "source": "marketplace",
+  "version": "1.0.0",
+  "skillId": "skill_2099752652776304640",
+  "pay_mode": 0,
+  "description_zh": "把隐性经验、成功案例、高手做法，提炼成可复制的方法论、SOP 与培训课纲",
+  "description_en": "Turn tacit experience, successful cases and expert practices into reusable methodology, SOPs and training outlines",
+  "iconSource": "letter:auto"
+}

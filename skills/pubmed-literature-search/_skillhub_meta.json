@@ -1,0 +1,13 @@
+{
+  "name": "科研文献搜索助手",
+  "installedAt": 1792726787838,
+  "source": "marketplace",
+  "version": "2.1.2",
+  "skillId": "skill_2097223523186610176",
+  "pay_mode": 0,
+  "description_zh": "给出关键词、作者或作者单位与时间范围，在 PubMed 全量检索并生成可搜索筛选的文献报告 HTML：每篇标注影响因子（JCR2025 年度值，非文章发表当年 IF）、标题与通讯作者单位中文翻译、PMID 原文链接。附质量门禁，绝不编造。",
+  "description_en": "Given keywords, an author, or author+affiliation together with a date range, run a full PubMed search and generate a searchable/filterable literature report HTML: each record is labeled with its impact factor (JCR2025 annual value, not the article's publication-year IF), Chinese translations of the title and corresponding-author affiliation, and a direct PMID link. A quality gate is enforced; nothing is fabricated.",
+  "iconSource": "https://openplatform-cdn.codebuddy.cn/public/common/capability_cover/085bee27-85b9-453a-b88a-1f56f6c8102f/d9af6f2a-558b-49b5-ae5d-489fae720d86.png",
+  "iconLocalPath": "C:\\Users\\10740\\.workbuddy\\skills\\pubmed-literature-search\\_icon.png",
+  "iconDownloadedFrom": "https://openplatform-cdn.codebuddy.cn/public/common/capability_cover/085bee27-85b9-453a-b88a-1f56f6c8102f/d9af6f2a-558b-49b5-ae5d-489fae720d86.png"
+}
