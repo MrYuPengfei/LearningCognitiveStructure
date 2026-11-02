@@ -1,0 +1,37 @@
+[11-02 23:46:07] 总量 17, 待处理 1, 档位 standard, BATCH=1, 自动重试轮数 2
+[11-02 23:46:07] 
+=== 轮0 批次 1/1 (1 篇) ===
+[11-02 23:46:07]   [task] job_6f7fcf506e71df7513731116 提交 1 篇 (tier=standard)
+[11-02 23:46:07]   [task] status=running progress=0/1
+[11-02 23:46:17]   [task] status=completed progress=1/1
+[11-02 23:46:17]   [dl-fail] Ainsworth_2006_DeFT.pdf: [Errno 2] No such file or directory: 'D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\Ainsworth_20
+[11-02 23:46:17]   [batch done] 1 篇, 用时 10.1s
+[11-02 23:46:19]   累计已解析: 0/17  总耗时 12s
+[11-02 23:46:19] 
+=== 自动重试轮 1/2（1 篇）===
+[11-02 23:46:34] 
+=== 轮1 批次 1/1 (1 篇) ===
+[11-02 23:46:34]   [task] job_484cc96670d315bc1cc3e222 提交 1 篇 (tier=standard)
+[11-02 23:46:34]   [task] status=running progress=0/1
+[11-02 23:46:44]   [task] status=completed progress=1/1
+[11-02 23:46:44]   [dl-fail] Ainsworth_2006_DeFT.pdf: [Errno 2] No such file or directory: 'D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\Ainsworth_20
+[11-02 23:46:44]   [batch done] 1 篇, 用时 10.1s
+[11-02 23:46:46]   累计已解析: 0/17  总耗时 39s
+[11-02 23:46:46] 
+=== 自动重试轮 2/2（1 篇）===
+[11-02 23:47:01] 
+=== 轮2 批次 1/1 (1 篇) ===
+[11-02 23:47:01]   [task] job_b7f0d2975fbe9dbc846d7d57 提交 1 篇 (tier=standard)
+[11-02 23:47:01]   [task] status=running progress=0/1
+[11-02 23:47:11]   [task] status=completed progress=1/1
+[11-02 23:47:11]   [dl-fail] Ainsworth_2006_DeFT.pdf: [Errno 2] No such file or directory: 'D:/VMwareShareFolder/ccnu/courese/LearningCognitiveStructure\\_parse\\Ainsworth_20
+[11-02 23:47:11]   [batch done] 1 篇, 用时 10.2s
+[11-02 23:47:13]   累计已解析: 0/17  总耗时 66s
+[11-02 23:47:13] 
+完成: parsed=0, dup_skipped=0, 仍未成功=1, 总耗时 1.1 分钟
+[11-02 23:47:13] 剩余失败分布: download_failed=1
+[11-02 23:47:30] 总量 17, 待处理 1, 档位 standard, BATCH=1, 自动重试轮数 2
+[11-02 23:47:30] 
+=== 轮0 批次 1/1 (1 篇) ===
+[11-02 23:47:30]   [task] job_03c7fed48787cd8c5c12deb4 提交 1 篇 (tier=standard)
+[11-02 23:47:30]   [task] status=running progress=0/1
